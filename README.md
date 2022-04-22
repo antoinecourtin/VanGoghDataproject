@@ -2,13 +2,6 @@
 
 Test data sets to participate in the Vang Gogh Wolrdwide project (https://vangoghworldwide.org/).
 
-```mermaid
-gitGraph
-       commit
-       commit
-       commit
-```
-
 ### Documentation 
 * Providing data to the vangoghworldwide.org platform > github documentation : https://github.com/vangoghworldwide/linkedart
 * To validate data : https://cloud.spinque.com/vangoghworldwide/prototype/linkedart
