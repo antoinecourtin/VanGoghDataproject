@@ -1,0 +1,360 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.musee-orsay.fr/fr/oeuvres/14060",
+  "type": "HumanMadeObject",
+  "see_also": [
+    {
+      "id": "https://vangoghworldwide.org/data/artwork/F653"
+    }
+  ],
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300033618",
+      "type": "Type",
+      "_label": "paintings" 
+    }
+  ],
+  "identified_by": [
+    {
+      "type": "Identifier",
+      "content": "14060", 
+      "classified_as": [
+		{
+          "id": "http://vocab.getty.edu/aat/300404620",
+        
+          "type": "Type",
+          "_label": "catalog numbers"
+        }
+	  ] 
+    },
+	{
+	 "type": "Identifier",
+      "content": "RF 1973 25", 
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+		  "type": "Type",
+          "_label": "accession numbers"
+       }
+	  ] 
+    },
+    {
+      "type": "Identifier",
+      "content": "F653",
+      "classified_as": [
+        {
+          "id": "https://vangoghworldwide.org/data/concept/f_number",
+          "type": "Type",
+          "_label": "De La Faille number"
+       }
+	  ] 
+    },
+    {
+      "type": "Identifier",
+      "content": "JH1840",
+      "classified_as": [
+        {
+          "id": "https://vangoghworldwide.org/data/concept/jh_number",
+          "type": "Type",
+          "_label": "Jan Hulsker number"
+       }
+	  ] 
+    },
+	{
+      "type": "Name",
+	  "content": "Saint-Paul Hospital in Saint-Rémy-de-Provence",
+      "language": [
+        {
+          "id": "http://vocab.getty.edu/aat/300388277",
+          "type": "Language",
+          "_label": "English"
+        }
+      ],
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "Preferred terms"
+        }
+      ]
+    },
+	{
+      "type": "Name",
+	  "content": "Hôpital Saint-Paul à Saint-Rémy-de-Provence",
+      "language": [
+        {
+          "id": "http://vocab.getty.edu/page/aat/300419444",
+          "type": "Language",
+          "_label": "French"
+        }
+      ],
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300400513",
+          "type": "Type",
+          "_label": "other (information indicator)"
+        }
+      ]
+    }
+],
+  "current_owner": [
+    {
+      "id": "http://vocab.getty.edu/ulan/500310001",
+      "type": "Group",
+      "_label":"Etablissement public du Musée d'Orsay et du Musée de l'Orangerie - Valérie Giscard d'Estaing"
+    }
+  ],
+  "produced_by": {
+    "type": "Production",
+    "carried_out_by": [
+      {
+        "id": "http://vocab.getty.edu/ulan/500115588",
+        "type": "Actor",
+        "_label": "Gogh, Vincent van"
+      }
+    ],
+    "technique": [
+      {
+        "id": "http://vocab.getty.edu/aat/300054216",
+        "type": "Type",
+        "_label": "painting"
+      }
+    ],
+    "took_place_at": [
+      {
+        "id": "http://vocab.getty.edu/tgn/7009654",
+        "type": "Place",
+        "_label": "Saint-Rémy-de-Provence" 
+      }
+    ],
+    "timespan": [
+      {
+        "type": "TimeSpan",
+        "end_of_the_end": "1889-12-31T23:59:59",
+        "begin_of_the_begin": "1889-01-01T00:00:00"
+          }
+        ]
+  },
+  "dimension": [
+    {
+      "type": "Dimension",
+      "value": "49.0",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055647",
+          "type": "Type",
+          "_label": "width"
+        }
+      ],
+      "unit": {
+        "id": "http://vocab.getty.edu/aat/300379098",
+        "type": "MeasurementUnit",
+        "_label": "centimeters"
+      }
+    },
+    {
+      "type": "Dimension",
+      "value": "63.4",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055644",
+          "type": "Type",
+          "_label": "height"
+        }
+      ],
+      "unit": {
+        "id": "http://vocab.getty.edu/aat/300379098",
+        "type": "MeasurementUnit",
+        "_label": "centimeters"
+      }
+    }
+  ],
+  "made_of": [
+    {
+      "id": "http://vocab.getty.edu/aat/300015050",
+      "type": "Material",
+      "_label": "oil paint"
+    }
+  ],
+  "part": [
+    {
+      "type": "HumanMadeObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300014844",
+          "type": "Type",
+          "_label": "Canvas Support"
+        }
+      ],
+      "made_of": [
+        {
+          "id": "http://vocab.getty.edu/aat/300014078",
+          "type": "Material",
+          "_label": "canvas"
+        }
+      ]
+    }
+  ],
+  "shows": [
+    {
+      "type": "VisualItem",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300015571",
+          "type": "Type",
+          "_label": "cityscapes" 
+        }
+      ]
+    }
+  ],
+  "representation": [
+    {
+      "id": "https://cdn.mediatheque.epmoo.fr/link/vgt189jpz6pjabk.jpg",
+      "type": "VisualItem",
+      "format": "image/jpeg",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300215302",
+          "type": "Type",
+          "_label": "digital images"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "type": "LinguisticObject", 
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687", 
+          "type": "Type", 
+          "_label": "Credit Statement",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300418049", 
+              "type": "Type", 
+              "_label": "Brief Text"
+            }
+          ]
+        }
+      ], 
+      "content": "Etablissement public du Musée d'Orsay et du Musée de l'Orangerie - Valérie Giscard d'Estaing"
+    },
+	{
+      "type": "LinguisticObject", 
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300435438", 
+          "type": "Type", 
+          "_label": "Provenance Statement", 
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300418049", 
+              "type": "Type", 
+              "_label": "1973, accepté par l'Etat à titre de donation de Max et Rosy Kaganovitch pour le musée du Jeu de Paume (comité du 08/02/1973, conseil du 14/02/1973, arrêté du 20/03/1973) ; 1973, attribué au musée du Louvre, Paris ; De 1973 à 1986, musée du Louvre, galerie du Jeu de Paume, Paris ; 1986, affecté au musée d'Orsay, Paris"
+            }
+          ]
+        }
+      ], 
+      "content": "Collection du docteur Joseph Peyron, médecin de l'hôpital de Saint-Rémy, donné par l'artiste ; Collection Marie Gasquet, née Girard (qui l'aurait reçu du fils du docteur Peyron) ; Galerie Bernheim-Jeune, Paris ; Collection Paul Cassirer, Berlin ; Collection F. Kallmann, Berlin ; Galerie E. Bignou, Paris ; Collection Witzinger, Bâle ; Jusqu'en 1973, dans la collection Max et Rosy Kaganovitch ; 1973, accepté par l'Etat à titre de donation de Max et Rosy Kaganovitch pour le musée du Jeu de Paume (comité du 08/02/1973, conseil du 14/02/1973, arrêté du 20/03/1973) ; 1973, attribué au musée du Louvre, Paris ; De 1973 à 1986, musée du Louvre, galerie du Jeu de Paume, Paris ; 1986, affecté au musée d'Orsay, Paris"
+    },
+	{
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300028051", 
+          "type": "Type", 
+          "_label": "Book"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name", 
+          "content": "Tout l'oeuvre peint de Van Gogh"
+        }
+      ], 
+      "created_by": {
+        "type": "Creation", 
+        "carried_out_by": [
+          {
+            "id": "https://catalogue.bnf.fr/ark:/12148/cb12619726g",
+            "type": "Person", 
+            "_label": "Lecaldano, Paolo"
+          }
+        ]
+      },
+      "used_for": [
+        {
+          "type": "Activity", 
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300054686", 
+              "type": "Type", 
+              "_label": "Publishing"
+            }
+          ], 
+          "carried_out_by": [
+            {
+              "id": "https://data.bnf.fr/fr/11875935/flammarion/",
+              "type": "Group", 
+              "_label": "Flammarion"
+            }
+          ],
+          "took_place_at": [
+            {
+              "id": "http://vocab.getty.edu/page/tgn/7002980",
+              "type": "Place",
+              "_label": "Paris"
+            }
+          ],
+          "timespan": [
+            {
+              "type": "TimeSpan",
+              "begin_of_the_begin": "1971-01-01T00:00:00",
+              "end_of_the_end": "1971-12-31T23:59:59"
+            }
+          ]
+        }
+      ]
+	}
+  ],
+  "used_for": [
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Van Gogh Exhibition"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "http://vocab.getty.edu/page/ulan/500315529",
+          "type": "Actor",
+          "_label": "galerie Paul Cassirer"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "http://vocab.getty.edu/tgn/7006952",
+          "type": "Place",
+          "_label": "Berlin"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "end_of_the_begin": "1914-01-01T00:00:00Z",
+          "begin_of_the_end": "1914-12-31T23:59:59Z"
+        }
+      ]
+    }
+  ]
+}

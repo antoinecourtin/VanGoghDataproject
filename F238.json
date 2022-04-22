@@ -1,0 +1,307 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.musee-orsay.fr/fr/oeuvres/143",
+  "type": "HumanMadeObject",
+  "see_also": [
+    {
+      "id": "https://vangoghworldwide.org/data/artwork/F238"
+    }
+  ],
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300033618",
+      "type": "Type",
+      "_label": "Paintings" 
+    }
+  ],
+  "identified_by": [
+    {
+      "type": "Identifier",
+      "content": "143", 
+      "classified_as": [
+		{
+          "id": "http://vocab.getty.edu/aat/300404620",
+        
+          "type": "Type",
+          "_label": "catalog numbers"
+        }
+	  ] 
+    },
+	{
+	 "type": "Identifier",
+      "content": "RF 2243   ", 
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+		  "type": "Type",
+          "_label": "accession numbers"
+       }
+	  ] 
+    },
+    {
+      "type": "Identifier",
+      "content": "F238",
+      "classified_as": [
+        {
+          "id": "https://vangoghworldwide.org/data/concept/f_number",
+          "type": "Type",
+          "_label": "De La Faille number"
+       }
+	  ] 
+    },
+	 {
+      "type": "Identifier",
+      "content": "JH1178",
+      "classified_as": [
+        {
+          "id": "https://vangoghworldwide.org/data/concept/jh_number",
+          "type": "Type",
+          "_label": "Jan Hulsker number"
+       }
+	  ] 
+    },
+	{
+      "type": "Name",
+      "content": "The Guinguette in Montmartre",
+      "language": [
+        {
+          "id": "http://vocab.getty.edu/aat/300388277",
+          "type": "Language",
+          "_label": "English"
+        }
+      ],
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "Preferred terms"
+        }
+      ]
+    },
+	{
+      "type": "Name",
+	  "content": "La Guinguette à Montmartre",
+      "language": [
+        {
+          "id": "http://vocab.getty.edu/page/aat/300419444",
+          "type": "Language",
+          "_label": "French"
+        }
+      ],
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300400513",
+          "type": "Type",
+          "_label": "other (information indicator)"
+        }
+      ]
+    }
+],
+  "current_owner": [
+    {
+      "id": "http://vocab.getty.edu/ulan/500310001",
+      "type": "Group",
+      "_label":"Etablissement public du Musée d'Orsay et du Musée de l'Orangerie - Valérie Giscard d'Estaing"
+    }
+  ],
+  "produced_by": {
+    "id": "",
+    "type": "Production",
+    "carried_out_by": [
+      {
+        "id": "http://vocab.getty.edu/ulan/500115588",
+        "type": "Actor",
+        "_label": "Gogh, Vincent van"
+      }
+    ],
+    "technique": [
+      {
+        "id": "http://vocab.getty.edu/aat/300054216",
+        "type": "Type",
+        "_label": "painting"
+      }
+    ],
+    "took_place_at": [
+      {
+        "id": "http://vocab.getty.edu/tgn/7007856",
+        "type": "Place",
+        "_label": "Antwerpen" 
+      }
+    ],
+    "timespan": [
+      {
+        "type": "TimeSpan",
+        "end_of_the_end": "1886-12-31T00:00:00",
+        "begin_of_the_begin": "1886-01-01T00:00:00"
+          }
+        ]
+  },
+  "dimension": [
+    {
+      "id": "",
+      "type": "Dimension",
+      "value": "64,5",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055647",
+          "type": "Type",
+          "_label": "width"
+        }
+      ],
+      "unit": {
+        "id": "http://vocab.getty.edu/aat/300379098",
+        "type": "MeasurementUnit",
+        "_label": "centimeters"
+      }
+    },
+    {
+      "id": "",
+      "type": "Dimension",
+      "value": "50,0",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055644",
+          "type": "Type",
+          "_label": "height"
+        }
+      ],
+      "unit": {
+        "id": "http://vocab.getty.edu/aat/300379098",
+        "type": "MeasurementUnit",
+        "_label": "centimeters"
+      }
+    }
+  ],
+  "made_of": [
+    {
+      "id": "http://vocab.getty.edu/aat/300015050",
+      "type": "Material",
+      "_label": "oil paint"
+    }
+  ],
+  "part": [
+    {
+      "type": "HumanMadeObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300014844",
+          "type": "Type",
+          "_label": "Canvas Support"
+        }
+      ],
+      "made_of": [
+        {
+          "id": "http://vocab.getty.edu/aat/300014078",
+          "type": "Material",
+          "_label": "canvas"
+        }
+      ]
+    }
+  ],
+  "shows": [
+    {
+      "type": "VisualItem",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300236227",
+          "type": "Type",
+          "_label": "townscapes" 
+        }
+      ]
+    }
+  ],
+  "representation": [
+    {
+      "id": "https://cdn.mediatheque.epmoo.fr/link/gfa189jpyt4g5ls.jpg",
+      "type": "VisualItem",
+      "format": "image/jpeg",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300215302",
+          "type": "Type",
+          "_label": "digital images"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "", 
+      "type": "LinguisticObject", 
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687", 
+          "type": "Type", 
+          "_label": "Credit Statement",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300418049", 
+              "type": "Type", 
+              "_label": "Brief Text"
+            }
+          ]
+        }
+      ], 
+      "content": "Etablissement public du Musée d'Orsay et du Musée de l'Orangerie - Valérie Giscard d'Estaing"
+    },
+	{
+      "id": "", 
+      "type": "LinguisticObject", 
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300435438", 
+          "type": "Type", 
+          "_label": "Provenance Statement", 
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300418049", 
+              "type": "Type", 
+              "_label": "1986, affecté au musée d'Orsay, Paris"
+            }
+          ]
+        }
+      ], 
+      "content": "De 1908 à 1909, Galerie Bernheim-Jeune ; 1909, Galerie Druet ; Jusqu'en 1914, dans la collection Pierre Goujon, député, tué à l'ennemi ; 1915, accepté par l'Etat à titre de legs de Pierre Goujon, député, tué à l'ennemi, en souvenir de son père le docteur Etienne Goujon (décrêt du 14/08/1915) ; De 1914 à 1929, musée du Luxembourg, Paris ; 1929, attribué au musée du Louvre, Paris ; De 1929 à 1947, musée du Louvre, Paris ; De 1947 à 1986, musée du Louvre, galerie du Jeu de Paume, Paris ; 1986, affecté au musée d'Orsay, Paris"
+    }
+  ],
+  "used_for": [
+    {
+      "id": "",
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Van Gogh"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "galerie Marcel Bernheim"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Paris"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "end_of_the_begin": "1925-01-01T00:00:00",
+          "begin_of_the_end": "1925-12-31T00:00:00"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.musee-orsay.fr/fr/oeuvres/750",
+  "type": "HumanMadeObject",
+  "see_also": [
+    {
+      "id": "https://vangoghworldwide.org/data/artwork/F686"
+    }
+  ],
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300033618",
+      "type": "Type",
+      "_label": "Paintings" 
+    }
+  ],
+  "identified_by": [
+    {
+      "type": "Identifier",
+      "content": "750", 
+      "classified_as": [
+		{
+          "id": "http://vocab.getty.edu/aat/300404620",
+        
+          "type": "Type",
+          "_label": "catalog numbers"
+        }
+	  ] 
+    },
+	{
+	 "type": "Identifier",
+      "content": "RF 1952 17   ", 
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+		  "type": "Type",
+          "_label": "accession numbers"
+       }
+	  ] 
+    },
+    {
+      "type": "Identifier",
+      "content": "F686",
+      "classified_as": [
+        {
+          "id": "https://vangoghworldwide.org/data/concept/f_number",
+          "type": "Type",
+          "_label": "De La Faille number"
+       }
+	  ] 
+    },
+	{
+      "type": "Identifier",
+      "content": "JH1881",
+      "classified_as": [
+        {
+          "id": "https://vangoghworldwide.org/data/concept/jh_number",
+          "type": "Type",
+          "_label": "Jan Hulsker number"
+       }
+	  ] 
+    },
+	{
+      "type": "Name",
+	  "content": "The Siesta",
+      "language": [
+        {
+          "id": "http://vocab.getty.edu/aat/300388277",
+          "type": "Language",
+          "_label": "English"
+        }
+      ],
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "Preferred terms"
+        }
+      ]
+    },
+	{
+      "type": "Name",
+	  "content": "La Méridienne",
+      "language": [
+        {
+          "id": "http://vocab.getty.edu/page/aat/300419444",
+          "type": "Language",
+          "_label": "French"
+        }
+      ],
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300400513",
+          "type": "Type",
+          "_label": "other (information indicator)"
+        }
+      ]
+    }
+],
+  "current_owner": [
+    {
+      "id": "http://vocab.getty.edu/ulan/500310001",
+      "type": "Group",
+      "_label":"Etablissement public du Musée d'Orsay et du Musée de l'Orangerie - Valérie Giscard d'Estaing"
+    }
+  ],
+  "produced_by": {
+    "id": "",
+    "type": "Production",
+    "carried_out_by": [
+      {
+        "id": "http://vocab.getty.edu/ulan/500115588",
+        "type": "Actor",
+        "_label": "Gogh, Vincent van"
+      }
+    ],
+    "technique": [
+      {
+        "id": "http://vocab.getty.edu/aat/300054216",
+        "type": "Type",
+        "_label": "painting"
+      }
+    ],
+    "took_place_at": [
+      {
+        "id": "http://vocab.getty.edu/tgn/7009654",
+        "type": "Place",
+        "_label": "Saint-Rémy-de-Provence" 
+      }
+    ],
+    "timespan": [
+      {
+        "type": "TimeSpan",
+        "end_of_the_end": "1890-12-31T00:00:00",
+        "begin_of_the_begin": "1890-01-01T00:00:00"
+          }
+        ]
+  },
+  "dimension": [
+    {
+      "id": "",
+      "type": "Dimension",
+      "value": "91",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055647",
+          "type": "Type",
+          "_label": "width"
+        }
+      ],
+      "unit": {
+        "id": "http://vocab.getty.edu/aat/300379098",
+        "type": "MeasurementUnit",
+        "_label": "centimeters"
+      }
+    },
+    {
+      "id": "",
+      "type": "Dimension",
+      "value": "73",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055644",
+          "type": "Type",
+          "_label": "height"
+        }
+      ],
+      "unit": {
+        "id": "http://vocab.getty.edu/aat/300379098",
+        "type": "MeasurementUnit",
+        "_label": "centimeters"
+      }
+    }
+  ],
+  "made_of": [
+    {
+      "id": "http://vocab.getty.edu/aat/300015050",
+      "type": "Material",
+      "_label": "oil paint"
+    }
+  ],
+  "part": [
+    {
+      "type": "HumanMadeObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300014844",
+          "type": "Type",
+          "_label": "Canvas Support"
+        }
+      ],
+      "made_of": [
+        {
+          "id": "http://vocab.getty.edu/aat/300014078",
+          "type": "Material",
+          "_label": "canvas"
+        }
+      ]
+    }
+  ],
+  "shows": [
+    {
+      "type": "VisualItem",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300139140",
+          "type": "Type",
+          "_label": "genre" 
+        }
+      ]
+    }
+  ],
+  "representation": [
+    {
+      "id": "https://cdn.mediatheque.epmoo.fr/link/apq189jq09uhp1c.jpg",
+      "type": "VisualItem",
+      "format": "image/jpeg",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300215302",
+          "type": "Type",
+          "_label": "digital images"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "", 
+      "type": "LinguisticObject", 
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687", 
+          "type": "Type", 
+          "_label": "Credit Statement",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300418049", 
+              "type": "Type", 
+              "_label": "Brief Text"
+            }
+          ]
+        }
+      ], 
+      "content": "Etablissement public du Musée d'Orsay et du Musée de l'Orangerie - Valérie Giscard d'Estaing"
+    },
+	{
+      "id": "", 
+      "type": "LinguisticObject", 
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300435438", 
+          "type": "Type", 
+          "_label": "Provenance Statement", 
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300418049", 
+              "type": "Type", 
+              "_label": "1986, affecté au musée d'Orsay, Paris"
+            }
+          ]
+        }
+      ], 
+      "content": "Collection Mme J. Van Gogh-Bonger, Amsterdam ; Collection Aubry, Paris ; Jusqu'en 1932, dans la collection Charles Pacquement, Paris ; 1932, vente Charles Pacquement, Paris, Galerie Georges Petit, 12 décembre 1932, n°32 ; Galerie E. Bignou ; Jusqu'en 1963, dans la collection Mme Fernand Halphen, née Koenigswarter, Paris ; 1952, accepté par l'Etat à titre de donation sous réserve d'usufruit de Mme Fernand Halphen (comité du 28/02/1952, conseil du 06/03/1952, arrêté du 29/07/1952) ; 1952, attribué au musée du Louvre, Paris ; De 1963 à 1986, musée du Louvre, galerie du Jeu de Paume, Paris (fin de l'usufruit en 1963) ; 1986, affecté au musée d'Orsay, Paris"
+    }
+  ],
+  "used_for": [
+    {
+      "id": "",
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Van Gogh"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "Stedelijk Museum"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Amsterdam"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "end_of_the_begin": "1905-01-01T00:00:00",
+          "begin_of_the_end": "1905-12-31T00:00:00"
+        }
+      ]
+    }
+  ]
+}
