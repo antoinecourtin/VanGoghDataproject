@@ -10,3 +10,15 @@
         }
       ]
 ```
+
+* If we filter on the works of orsay, why only "Saint-remy" appears in the filter of "periods" when for example for F445 
+
+```json
+  "took_place_at": [
+      {
+        "id": "http://vocab.getty.edu/tgn/7008775",
+        "type": "Place",
+        "_label": "Arles" 
+      }
+    ],
+```
