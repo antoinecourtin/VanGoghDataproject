@@ -34,3 +34,15 @@
           }
         ]
 ```
+
+* Why doesn't the technique appear as for https://preprod.vangoghworldwide.org/artwork/F134 when the info is in the json 
+
+```json
+  "technique": [
+      {
+        "id": "http://vocab.getty.edu/aat/300054216",
+        "type": "Type",
+        "_label": "painting"
+      }
+    ],
+```
