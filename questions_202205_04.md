@@ -22,3 +22,15 @@
       }
     ],
 ```
+
+* Why doesn't the date appear as for https://preprod.vangoghworldwide.org/artwork/F134 when the info is in the json 
+
+```json
+    "timespan": [
+      {
+        "type": "TimeSpan",
+        "end_of_the_end": "1884-12-31T00:00:00",
+        "begin_of_the_begin": "1884-01-01T00:00:00"
+          }
+        ]
+```
