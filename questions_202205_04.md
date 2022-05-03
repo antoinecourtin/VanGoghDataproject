@@ -46,3 +46,4 @@
       }
     ],
 ```
+same question for "Artist", "exhibitons"
