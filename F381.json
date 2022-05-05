@@ -140,7 +140,7 @@
     {
       "id": "",
       "type": "Dimension",
-      "value": "60,5",
+      "value": "60.5",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300055647",
@@ -157,7 +157,7 @@
     {
       "id": "",
       "type": "Dimension",
-      "value": "81,5",
+      "value": "81.5",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300055644",
@@ -222,6 +222,18 @@
           "_label": "digital images"
         }
       ]
+    },
+	{
+      "id": "https://cdn.mediatheque.epmoo.fr/link/eme189jptra1y80.jpg",
+      "type": "VisualItem",
+      "format": "image/jpeg",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300215302",
+          "type": "Type",
+          "_label": "digital images"
+        }
+      ]
     }
   ],
   "referred_to_by": [
@@ -265,8 +277,7 @@
     }
   ],
   "used_for": [
-    {
-      "id": "",
+   {
       "type": "Activity",
       "classified_as": [
         {
@@ -298,8 +309,1303 @@
       "timespan": [
         {
           "type": "TimeSpan",
-          "end_of_the_begin": "1920-01-01T00:00:00",
-          "begin_of_the_end": "1920-12-31T00:00:00"
+          "begin_of_the_begin": "1920-01-01",
+		  "end_of_the_end": "1920-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Vincent Van Gogh"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "Leicester Galleries"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Londres"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "1923-01-01",
+		  "end_of_the_end": "1923-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "[sans titre]"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "Württembergischer Kunstverein"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Stuttgart"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "1924-01-01",
+		  "end_of_the_end": "1924-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "[sans titre]"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "Kunsthalle Basel"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Bâle"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "1924-01-01",
+		  "end_of_the_end": "1924-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Van Gogh"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "galerie Marcel Bernheim"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Paris"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "1925-01-01",
+		  "end_of_the_end": "1925-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "[sans titre]"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "Pulchri Studio"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "La Haye"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "1925-01-01",
+		  "end_of_the_end": "1925-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Les impressionnistes français"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "organisme inconnu"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Saint-Pétersbourg"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "1970-01-01",
+		  "end_of_the_end": "1970-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Los Impresionistas Franceses"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "Museo Español de Arte Contemporaneo"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Madrid"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "1971-01-01",
+		  "end_of_the_end": "1971-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Francuzskaja zivopis vtoroj poloviny XIX - nacala XX veka - proizvedenija impressionistov iz Muzeev Francii"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "The Pushkin State Museum of Fine Arts"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Moscou"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "1971-01-01",
+		  "end_of_the_end": "1971-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Vincent Van Gogh and the birth of Cloisonism"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "Art Gallery of Ontario"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Toronto"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "1981-01-01",
+		  "end_of_the_end": "1981-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Vincent Van Gogh and the birth of Cloisonism"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "Rijksmuseum"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "null"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "1981-01-01",
+		  "end_of_the_end": "1981-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Un siècle : 100 chefs-d'oeuvre"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "Galeries nationales du Grand Palais"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "null"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "1984-01-01",
+		  "end_of_the_end": "1984-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Orsay avant Orsay. 26 chefs-d'oeuvre impressionnistes et post-impressionnistes"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "musée Picasso"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Antibes"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "1985-01-01",
+		  "end_of_the_end": "1985-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Orsay avant Orsay. 26 chefs-d'oeuvre impressionnistes et post-impressionnistes"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "musée des Augustins"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Toulouse"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "1985-01-01",
+		  "end_of_the_end": "1985-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Orsay avant Orsay. 26 chefs-d'oeuvre impressionnistes et post-impressionnistes"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "musée des Beaux-Arts"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Lyon"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "1985-01-01",
+		  "end_of_the_end": "1986-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Van Gogh à Paris"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "musée d'Orsay, Paris"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Paris"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "1988-01-01",
+		  "end_of_the_end": "1988-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Franzosische Malerei aus dem Musée d'Orsay"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "Städelsches Kunstinstitut"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Francfort-sur-le-Main"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "1989-01-01",
+		  "end_of_the_end": "1990-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Vincent Van Gogh peintures"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "Van Gogh Museum"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Amsterdam"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "1990-01-01",
+		  "end_of_the_end": "1990-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Toulouse-Lautrec et ses amis"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "musée Henri de Toulouse-Lautrec"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Albi"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "1992-01-01",
+		  "end_of_the_end": "1992-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "L'Age d'or de l'impressionnisme - Chefs-d'oeuvre du Musée d'Orsay"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "National Museum of History"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Taïpei"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "1997-01-01",
+		  "end_of_the_end": "1997-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Les Maîtres de l'Impressionnisme"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "Museo del Palacio de Bellas Artes"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Mexico"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "1998-01-01",
+		  "end_of_the_end": "1999-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Van Gogh Face to Face, the Portraits"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "Detroit Institute of Arts"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Détroit"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "2000-01-01",
+		  "end_of_the_end": "2000-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Van Gogh Face to Face, the Portraits"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "Museum of Fine Arts"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Boston"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "2000-01-01",
+		  "end_of_the_end": "2000-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Van Gogh Face to Face, the Portraits"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "Philadelphia Museum of Art"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Philadelphie"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "2000-01-01",
+		  "end_of_the_end": "2001-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Paris in the age of Impressionnism. Masterworks from the Musée d'Orsay"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "High Museum of Art"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Atlanta"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "2002-01-01",
+		  "end_of_the_end": "2003-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Paris in the age of Impressionnism. Masterworks from the Musée d'Orsay"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "Museum of Fine Arts"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Houston"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "2003-01-01",
+		  "end_of_the_end": "2003-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Chefs-d'oeuvre du musée d'Orsay pour le 150e anniversaire de la galerie Tretyakov"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "The State Tretyakov Gallery"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Moscou"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "2006-01-01",
+		  "end_of_the_end": "2006-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Vincent van Gogh en het Expressionisme"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "Van Gogh Museum"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Amsterdam"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "2006-01-01",
+		  "end_of_the_end": "2007-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Vincent van Gogh and Expressionism"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "Neue Galerie"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "New York"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "2007-01-01",
+		  "end_of_the_end": "2007-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Fascinante Italie - de Manet à Picasso 1853-1917"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "musée des Beaux-Arts"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "null"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "2009-01-01",
+		  "end_of_the_end": "2010-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Paris au temps des impressionnistes, 1848-1914. Les chefs-d'oeuvre du musée d'Orsay à l'Hôtel de Ville"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "hôtel de ville"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Paris"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "2011-01-01",
+		  "end_of_the_end": "2011-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Musée d'Orsay. Capolavori"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "Complesso del Vittoriano"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Rome"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "2014-01-01",
+		  "end_of_the_end": "2014-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Faces of Impressionism. Portraits from the Musée d'Orsay"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "Kimbell Art Museum"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Fort Worth"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "2014-01-01",
+		  "end_of_the_end": "2015-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Munch : Van Gogh"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "Van Gogh Museum"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Amsterdam"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "2015-01-01",
+		  "end_of_the_end": "2016-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "O triunfo da Cor. O pós-impressionismo: obras-primas do Musée d'Orsay e do Musée de l'Orangerie"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "Centro cultural Banco do Brasil"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Rio de Janeiro"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "2016-01-01",
+		  "end_of_the_end": "2016-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Japonisme / Impressionnismes"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "musée des Impressionnismes Giverny"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Giverny"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "2018-01-01",
+		  "end_of_the_end": "2018-12-31"
         }
       ]
     }
