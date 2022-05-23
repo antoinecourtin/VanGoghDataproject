@@ -1,10 +1,10 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://www.musee-orsay.fr/fr/oeuvres/2954",
+  "id": "https://www.musee-orsay.fr/fr/oeuvres/2955",
   "type": "HumanMadeObject",
   "see_also": [
     {
-      "id": "https://vangoghworldwide.org/data/artwork/F1644v"
+      "id": "https://vangoghworldwide.org/data/artwork/F1622"
     }
   ],
   "classified_as": [
@@ -17,7 +17,7 @@
   "identified_by": [
     {
       "type": "Identifier",
-      "content": "2954", 
+      "content": "2955", 
       "classified_as": [
 		{
           "id": "http://vocab.getty.edu/aat/300404620",
@@ -29,7 +29,7 @@
     },
 	{
 	 "type": "Identifier",
-      "content": "RF 29883 Verso   ", 
+      "content": "RF 29884 Recto", 
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312355",
@@ -40,7 +40,7 @@
     },
     {
       "type": "Identifier",
-      "content": "F1644v",
+      "content": "F1622r",
       "classified_as": [
         {
           "id": "https://vangoghworldwide.org/data/concept/f_number",
@@ -51,7 +51,7 @@
     },
 	{
       "type": "Identifier",
-      "content": "JH2066",
+      "content": "JH2061",
       "classified_as": [
         {
           "id": "https://vangoghworldwide.org/data/concept/jh_number",
@@ -62,7 +62,7 @@
     },
 	{
       "type": "Name",
-	  "content": "Woman with hat in checked coat",
+	  "content": "Back of a horse",
       "language": [
         {
           "id": "http://vocab.getty.edu/aat/300388277",
@@ -80,7 +80,7 @@
     },
 	{
       "type": "Name",
-	  "content": "Femme élégante, de dos, portant une robe à carreaux",
+	  "content": "Arrière train d'un cheval",
       "language": [
         {
           "id": "http://vocab.getty.edu/page/aat/300419444",
@@ -131,8 +131,8 @@
     "timespan": [
       {
         "type": "TimeSpan",
-        "end_of_the_end": "",
-        "begin_of_the_begin": ""
+        "end_of_the_end": "1890-01-01T00:00:00",
+        "begin_of_the_begin": "1890-12-31T00:00:00"
           }
         ]
   },
@@ -140,7 +140,7 @@
     {
       "id": "",
       "type": "Dimension",
-      "value": "8",
+      "value": "8.7",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300055647",
@@ -157,7 +157,7 @@
     {
       "id": "",
       "type": "Dimension",
-      "value": "12.5",
+      "value": "12",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300055644",
@@ -203,16 +203,16 @@
       "type": "VisualItem",
       "classified_as": [
         {
-          "id": "http://vocab.getty.edu/aat/300189808",
+          "id": "http://vocab.getty.edu/aat/300386044",
           "type": "Type",
-          "_label": "figures" 
+          "_label": "animal art" 
         }
       ]
     }
   ],
   "representation": [
     {
-      "id": "http://arts-graphiques.louvre.fr/images/oeuvres/32675/0/768.jpg",
+      "id": "http://arts-graphiques.louvre.fr/images/oeuvres/32676/0/768.jpg",
       "type": "VisualItem",
       "format": "image/jpeg",
       "classified_as": [

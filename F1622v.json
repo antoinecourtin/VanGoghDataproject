@@ -29,7 +29,7 @@
     },
 	{
 	 "type": "Identifier",
-      "content": "RF 29884 Verso   ", 
+      "content": "RF 29884 Verso", 
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312355",
@@ -62,7 +62,7 @@
     },
 	{
       "type": "Name",
-	  "content": "",
+	  "content": "Head of a young man with hat:",
       "language": [
         {
           "id": "http://vocab.getty.edu/aat/300388277",
@@ -140,7 +140,7 @@
     {
       "id": "",
       "type": "Dimension",
-      "value": "8,7",
+      "value": "8.7",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300055647",
@@ -157,7 +157,7 @@
     {
       "id": "",
       "type": "Dimension",
-      "value": "13,2",
+      "value": "13.2",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300055644",

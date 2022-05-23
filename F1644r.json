@@ -1,10 +1,10 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://www.musee-orsay.fr/fr/oeuvres/2954",
+  "id": "https://www.musee-orsay.fr/fr/oeuvres/2953",
   "type": "HumanMadeObject",
   "see_also": [
     {
-      "id": "https://vangoghworldwide.org/data/artwork/F1644v"
+      "id": "https://vangoghworldwide.org/data/artwork/F1644"
     }
   ],
   "classified_as": [
@@ -17,7 +17,7 @@
   "identified_by": [
     {
       "type": "Identifier",
-      "content": "2954", 
+      "content": "2953", 
       "classified_as": [
 		{
           "id": "http://vocab.getty.edu/aat/300404620",
@@ -29,7 +29,7 @@
     },
 	{
 	 "type": "Identifier",
-      "content": "RF 29883 Verso   ", 
+      "content": "RF 29883 Recto", 
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312355",
@@ -40,7 +40,7 @@
     },
     {
       "type": "Identifier",
-      "content": "F1644v",
+      "content": "F1644r",
       "classified_as": [
         {
           "id": "https://vangoghworldwide.org/data/concept/f_number",
@@ -51,7 +51,7 @@
     },
 	{
       "type": "Identifier",
-      "content": "JH2066",
+      "content": "JH2065",
       "classified_as": [
         {
           "id": "https://vangoghworldwide.org/data/concept/jh_number",
@@ -62,7 +62,7 @@
     },
 	{
       "type": "Name",
-	  "content": "Woman with hat in checked coat",
+	  "content": "Woman wearing a striped dress",
       "language": [
         {
           "id": "http://vocab.getty.edu/aat/300388277",
@@ -80,7 +80,7 @@
     },
 	{
       "type": "Name",
-	  "content": "Femme élégante, de dos, portant une robe à carreaux",
+	  "content": "Femme vêtue d'une robe rayée",
       "language": [
         {
           "id": "http://vocab.getty.edu/page/aat/300419444",
@@ -212,7 +212,7 @@
   ],
   "representation": [
     {
-      "id": "http://arts-graphiques.louvre.fr/images/oeuvres/32675/0/768.jpg",
+      "id": "http://arts-graphiques.louvre.fr/images/oeuvres/32674/0/768.jpg",
       "type": "VisualItem",
       "format": "image/jpeg",
       "classified_as": [
