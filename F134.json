@@ -140,7 +140,7 @@
     {
       "id": "",
       "type": "Dimension",
-      "value": "26,0",
+      "value": "26.",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300055647",
@@ -157,7 +157,7 @@
     {
       "id": "",
       "type": "Dimension",
-      "value": "38,3",
+      "value": "38.3",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300055644",
@@ -265,8 +265,7 @@
     }
   ],
   "used_for": [
-    {
-      "id": "",
+        {
       "type": "Activity",
       "classified_as": [
         {
@@ -298,8 +297,230 @@
       "timespan": [
         {
           "type": "TimeSpan",
-          "end_of_the_begin": "1962-01-01T00:00:00",
-          "begin_of_the_end": "1962-12-31T00:00:00"
+          "end_of_the_end": "1962-12-31T00:00:00Z",
+          "begin_of_the_begin": "1962-01-01T23:59:59Z"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Les impressionnistes français"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "organisme inconnu"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Saint-Pétersbourg"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "end_of_the_end": "1970-12-31T00:00:00Z",
+          "begin_of_the_begin": "1970-01-01T23:59:59Z"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Los Impresionistas Franceses"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "Museo Español de Arte Contemporaneo"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Madrid"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "end_of_the_end": "1971-12-31T00:00:00Z",
+          "begin_of_the_begin": "1971-01-01T23:59:59Z"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Francuzskaja zivopis vtoroj poloviny XIX - nacala XX veka - proizvedenija impressionistov iz Muzeev Francii"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "The Pushkin State Museum of Fine Arts"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Moscou"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "end_of_the_end": "1971-12-31T00:00:00Z",
+          "begin_of_the_begin": "1971-01-01T23:59:59Z"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Le chemin de Millet"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "musée municipal"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Séoul"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "end_of_the_end": "2003-12-31T00:00:00Z",
+          "begin_of_the_begin": "2002-01-01T23:59:59Z"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Les beffrois de la culture : Autour de Jean-François Millet, l'homme moderne et la nature"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "mairie d'Auxi-le-Château"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Auxi-le-Château"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "end_of_the_end": "2004-12-31T00:00:00Z",
+          "begin_of_the_begin": "2004-01-01T23:59:59Z"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Conversation anglaise - Le groupe de Bloomsbury"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "musée d'Art et d'Industrie André Diligent - La Piscine"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "Roubaix"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "end_of_the_end": "2010-12-31T00:00:00Z",
+          "begin_of_the_begin": "2009-01-01T23:59:59Z"
         }
       ]
     }

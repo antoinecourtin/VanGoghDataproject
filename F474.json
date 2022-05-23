@@ -140,7 +140,7 @@
     {
       "id": "",
       "type": "Dimension",
-      "value": "92,0",
+      "value": "92",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300055647",
@@ -157,7 +157,7 @@
     {
       "id": "",
       "type": "Dimension",
-      "value": "73,0",
+      "value": "73",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300055644",
