@@ -105,7 +105,7 @@
     }
   ],
   "produced_by": {
-    "id": "",
+    
     "type": "Production",
     "carried_out_by": [
       {
@@ -138,7 +138,7 @@
   },
   "dimension": [
     {
-      "id": "",
+      
       "type": "Dimension",
       "value": "73.5",
       "classified_as": [
@@ -155,7 +155,7 @@
       }
     },
     {
-      "id": "",
+      
       "type": "Dimension",
       "value": "92.5",
       "classified_as": [
@@ -226,7 +226,7 @@
   ],
   "referred_to_by": [
     {
-      "id": "", 
+       
       "type": "LinguisticObject", 
       "classified_as": [
         {
@@ -245,7 +245,7 @@
       "content": "Etablissement public du Musée d'Orsay et du Musée de l'Orangerie - Valérie Giscard d'Estaing"
     },
 	{
-      "id": "", 
+       
       "type": "LinguisticObject", 
       "classified_as": [
         {
@@ -262,7 +262,399 @@
         }
       ], 
       "content": "Galerie Tanguy, Paris ; Galerie Amédée Schuffnecker, Paris ; Jusqu'en 1908, dans la collection Zimmermann, Munich ; De 1908 à 1915, dans la collection Théa Sternheim, La Hulpe-les-Bruxelles ; De 1915 à 1974, dans la collection Marianne von Friedländer-Fould, devenue plus tard la baronne R. de Goldschmidt-Rothschild, Berlin ; 1952, accepté par l'Etat à titre de donation sous réserve d'usufruit de Mme R. de Goldschmidt-Rothschild, qui l'avait annoncé dès le 25 août 1944, jour de la Libération de Paris (comité du 27/03/1952, conseil du 03/04/1952) ; 1952, attribué au musée du Louvre, Paris ; De 1974 à 1986, musée du Louvre, galerie du Jeu de Paume, Paris (fin de l'usufruit) ; 1986, affecté au musée d'Orsay, Paris"
-    }
+    },
+	{
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300028051", 
+          "type": "Type", 
+          "_label": "Book"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name", 
+          "content": "L'Oeuvre de Vincent Van Gogh - Catalogue raisonné"
+        }
+      ], 
+      "created_by": {
+        "type": "Creation", 
+        "carried_out_by": [
+          {
+            "type": "Person", 
+            "_label": "La Faille, J.-B. de"
+          }
+        ]
+      },
+      "used_for": [
+        {
+          "type": "Activity", 
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300054686", 
+              "type": "Type", 
+              "_label": "Publishing"
+            }
+          ], 
+          "carried_out_by": [
+            {
+              "type": "Group", 
+              "_label": "G. Van Oest"
+            }
+          ],
+          "took_place_at": [
+            {
+              "type": "Place",
+              "_label": "Paris"
+            }
+          ],
+          "timespan": [
+            {
+              "type": "TimeSpan",
+              "begin_of_the_begin": "1928-01-01T00:00:00",
+              "end_of_the_end": "1928-12-31T23:59:59"
+            }
+          ]
+        }
+      ]
+	},
+{
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300028051", 
+          "type": "Type", 
+          "_label": "Book"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name", 
+          "content": "Tout l'oeuvre peint de Van Gogh"
+        }
+      ], 
+      "created_by": {
+        "type": "Creation", 
+        "carried_out_by": [
+          {
+            "type": "Person", 
+            "_label": "Lecaldano, Paolo"
+          }
+        ]
+      },
+      "used_for": [
+        {
+          "type": "Activity", 
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300054686", 
+              "type": "Type", 
+              "_label": "Publishing"
+            }
+          ], 
+          "carried_out_by": [
+            {
+              "type": "Group", 
+              "_label": "Flammarion"
+            }
+          ],
+          "took_place_at": [
+            {
+              "type": "Place",
+              "_label": "Paris"
+            }
+          ],
+          "timespan": [
+            {
+              "type": "TimeSpan",
+              "begin_of_the_begin": "1971-01-01T00:00:00",
+              "end_of_the_end": "1971-12-31T23:59:59"
+            }
+          ]
+        }
+      ]
+	},
+{
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300028051", 
+          "type": "Type", 
+          "_label": "Book"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name", 
+          "content": "Musée du Jeu de Paume - Catalogue rédigé"
+        }
+      ], 
+      "created_by": {
+        "type": "Creation", 
+        "carried_out_by": [
+          {
+            "type": "Person", 
+            "_label": "Adhémar, Hélène ; Dayez-Distel, Anne"
+          }
+        ]
+      },
+      "used_for": [
+        {
+          "type": "Activity", 
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300054686", 
+              "type": "Type", 
+              "_label": "Publishing"
+            }
+          ], 
+          "carried_out_by": [
+            {
+              "type": "Group", 
+              "_label": "Editions des musées nationaux"
+            }
+          ],
+          "took_place_at": [
+            {
+              "type": "Place",
+              "_label": "Paris"
+            }
+          ],
+          "timespan": [
+            {
+              "type": "TimeSpan",
+              "begin_of_the_begin": "1977-01-01T00:00:00",
+              "end_of_the_end": "1977-12-31T23:59:59"
+            }
+          ]
+        }
+      ]
+	},
+{
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300028051", 
+          "type": "Type", 
+          "_label": "Book"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name", 
+          "content": "Van Gogh in Arles"
+        }
+      ], 
+      "created_by": {
+        "type": "Creation", 
+        "carried_out_by": [
+          {
+            "type": "Person", 
+            "_label": "Pickvance, Ronald"
+          }
+        ]
+      },
+      "used_for": [
+        {
+          "type": "Activity", 
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300054686", 
+              "type": "Type", 
+              "_label": "Publishing"
+            }
+          ], 
+          "carried_out_by": [
+            {
+              "type": "Group", 
+              "_label": "The Metropolitan Museum of Art"
+            }
+          ],
+          "took_place_at": [
+            {
+              "type": "Place",
+              "_label": "New York"
+            }
+          ],
+          "timespan": [
+            {
+              "type": "TimeSpan",
+              "begin_of_the_begin": "1984-01-01T00:00:00",
+              "end_of_the_end": "1984-12-31T23:59:59"
+            }
+          ]
+        }
+      ]
+	},
+{
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300028051", 
+          "type": "Type", 
+          "_label": "Book"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name", 
+          "content": "Catalogue sommaire illustré des peintures du Musée du Louvre. II. Italie, Espagne, Allemagne, Grande-Bretagne et divers"
+        }
+      ], 
+      "created_by": {
+        "type": "Creation", 
+        "carried_out_by": [
+          {
+            "type": "Person", 
+            "_label": "Brejon de Lavergnée, Arnauld [coordination]Thiébaut Dominique [coordination]"
+          }
+        ]
+      },
+      "used_for": [
+        {
+          "type": "Activity", 
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300054686", 
+              "type": "Type", 
+              "_label": "Publishing"
+            }
+          ], 
+          "carried_out_by": [
+            {
+              "type": "Group", 
+              "_label": "Réunion des musées nationaux"
+            }
+          ],
+          "took_place_at": [
+            {
+              "type": "Place",
+              "_label": "Paris"
+            }
+          ],
+          "timespan": [
+            {
+              "type": "TimeSpan",
+              "begin_of_the_begin": "1981-01-01T00:00:00",
+              "end_of_the_end": "1981-12-31T23:59:59"
+            }
+          ]
+        }
+      ]
+	},
+{
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300028051", 
+          "type": "Type", 
+          "_label": "Book"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name", 
+          "content": "Musée d'Orsay. Catalogue sommaire illustré des peintures"
+        }
+      ], 
+      "created_by": {
+        "type": "Creation", 
+        "carried_out_by": [
+          {
+            "type": "Person", 
+            "_label": "Compin, Isabelle [coordination] ; Lacambre, Geneviève [coordination] ; Roquebert, Anne"
+          }
+        ]
+      },
+      "used_for": [
+        {
+          "type": "Activity", 
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300054686", 
+              "type": "Type", 
+              "_label": "Publishing"
+            }
+          ], 
+          "carried_out_by": [
+            {
+              "type": "Group", 
+              "_label": "Réunion des musées nationaux"
+            }
+          ],
+          "took_place_at": [
+            {
+              "type": "Place",
+              "_label": "Paris"
+            }
+          ],
+          "timespan": [
+            {
+              "type": "TimeSpan",
+              "begin_of_the_begin": "1990-01-01T00:00:00",
+              "end_of_the_end": "1990-12-31T23:59:59"
+            }
+          ]
+        }
+      ]
+	},
+{
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300028051", 
+          "type": "Type", 
+          "_label": "Book"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name", 
+          "content": "Van Gogh - coll. Little M'O"
+        }
+      ], 
+      "created_by": {
+        "type": "Creation", 
+        "carried_out_by": [
+          {
+            "type": "Person", 
+            "_label": "Madeline, Laurence"
+          }
+        ]
+      },
+      "used_for": [
+        {
+          "type": "Activity", 
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300054686", 
+              "type": "Type", 
+              "_label": "Publishing"
+            }
+          ], 
+          "carried_out_by": [
+            {
+              "type": "Group", 
+              "_label": "Musée d'Orsay ; Skira ; Flammarion"
+            }
+          ],
+          "took_place_at": [
+            {
+              "type": "Place",
+              "_label": "Paris"
+            }
+          ],
+          "timespan": [
+            {
+              "type": "TimeSpan",
+              "begin_of_the_begin": "2011-01-01T00:00:00",
+              "end_of_the_end": "2011-12-31T23:59:59"
+            }
+          ]
+        }
+      ]
+	}
   ],
   "used_for": [
            {
@@ -282,14 +674,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "galerie Eugène Druet"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "null"
         }
@@ -319,14 +711,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "organisme inconnu"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Cologne"
         }
@@ -356,14 +748,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "Flechtheim Gallery"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Düsseldorf"
         }
@@ -393,14 +785,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "galerie Paul Cassirer"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Berlin"
         }
@@ -430,14 +822,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "Nationalgalerie"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Berlin"
         }
@@ -467,14 +859,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "galerie Flechtheim"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Berlin"
         }
@@ -504,14 +896,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "galerie Paul Rosenberg"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "null"
         }
@@ -541,14 +933,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "Pavillon de Belgique"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Paris"
         }
@@ -578,14 +970,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "musée de l'Orangerie"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "null"
         }
@@ -615,14 +1007,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "Galeries nationales du Grand Palais"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "null"
         }
@@ -652,14 +1044,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "Metropolitan Museum of Art"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "New York"
         }
@@ -689,14 +1081,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "Brooklyn Museum"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "New York"
         }
@@ -726,14 +1118,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "Dallas Museum of Art"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Dallas"
         }
@@ -763,14 +1155,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "espace Van Gogh"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Arles"
         }
@@ -800,14 +1192,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "Szépművészeti Múzeum"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Budapest"
         }
@@ -837,14 +1229,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "hôtel de la région Provence-Alpes-Côtes d'Azur"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Marseille"
         }
@@ -874,14 +1266,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "musée du Luxembourg"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "null"
         }
@@ -911,14 +1303,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "Metropolitan Art Museum"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Tokyo"
         }
@@ -948,14 +1340,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "City museum"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Kobe"
         }
@@ -985,14 +1377,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "National Gallery of Australia"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Canberra"
         }
@@ -1022,14 +1414,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "Queensland Art Gallery "
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Brisbane"
         }
@@ -1059,14 +1451,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "Nationalmuseum"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "null"
         }
@@ -1096,14 +1488,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "Galeries nationales du Grand Palais"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Paris"
         }
@@ -1133,14 +1525,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "Metropolitan Museum of Art"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "New York"
         }
@@ -1170,14 +1562,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "Van Gogh Museum"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "null"
         }
@@ -1207,14 +1599,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "Detroit Institute of Arts"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Détroit"
         }
@@ -1244,14 +1636,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "Museum of Fine Arts"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Boston"
         }
@@ -1281,14 +1673,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "palais de Toksu (annexe du musée national d'Art contemporain)"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Séoul"
         }
@@ -1318,14 +1710,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "The Art Institute of Chicago"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Chicago"
         }
@@ -1355,14 +1747,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "Van Gogh Museum"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "null"
         }
@@ -1392,14 +1784,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "fondation Beyeler"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "null"
         }
@@ -1429,14 +1821,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "Leopold Museum"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Vienne"
         }
@@ -1466,14 +1858,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "Szépművészeti Múzeum"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Budapest"
         }
@@ -1503,14 +1895,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "Galeries nationales du Grand Palais"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "null"
         }
@@ -1540,14 +1932,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "Wallraf-Richartz-Museum & Fondation Corboud"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Cologne"
         }
@@ -1577,14 +1969,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "musée des Beaux-Arts"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Marseille"
         }
@@ -1614,14 +2006,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "The Phillips Collection"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Washington"
         }
@@ -1651,14 +2043,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "Cleveland Museum of Art"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Cleveland"
         }
@@ -1688,14 +2080,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "Kimbell Art Museum"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Fort Worth"
         }

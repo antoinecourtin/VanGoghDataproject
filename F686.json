@@ -105,7 +105,7 @@
     }
   ],
   "produced_by": {
-    "id": "",
+    
     "type": "Production",
     "carried_out_by": [
       {
@@ -138,7 +138,7 @@
   },
   "dimension": [
     {
-      "id": "",
+      
       "type": "Dimension",
       "value": "91",
       "classified_as": [
@@ -155,7 +155,7 @@
       }
     },
     {
-      "id": "",
+      
       "type": "Dimension",
       "value": "73",
       "classified_as": [
@@ -226,7 +226,7 @@
   ],
   "referred_to_by": [
     {
-      "id": "", 
+       
       "type": "LinguisticObject", 
       "classified_as": [
         {
@@ -245,7 +245,7 @@
       "content": "Etablissement public du Musée d'Orsay et du Musée de l'Orangerie - Valérie Giscard d'Estaing"
     },
 	{
-      "id": "", 
+       
       "type": "LinguisticObject", 
       "classified_as": [
         {
@@ -262,11 +262,346 @@
         }
       ], 
       "content": "Collection Mme J. Van Gogh-Bonger, Amsterdam ; Collection Aubry, Paris ; Jusqu'en 1932, dans la collection Charles Pacquement, Paris ; 1932, vente Charles Pacquement, Paris, Galerie Georges Petit, 12 décembre 1932, n°32 ; Galerie E. Bignou ; Jusqu'en 1963, dans la collection Mme Fernand Halphen, née Koenigswarter, Paris ; 1952, accepté par l'Etat à titre de donation sous réserve d'usufruit de Mme Fernand Halphen (comité du 28/02/1952, conseil du 06/03/1952, arrêté du 29/07/1952) ; 1952, attribué au musée du Louvre, Paris ; De 1963 à 1986, musée du Louvre, galerie du Jeu de Paume, Paris (fin de l'usufruit en 1963) ; 1986, affecté au musée d'Orsay, Paris"
-    }
+    },
+	{
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300028051", 
+          "type": "Type", 
+          "_label": "Book"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name", 
+          "content": "L'Oeuvre de Vincent Van Gogh - Catalogue raisonné"
+        }
+      ], 
+      "created_by": {
+        "type": "Creation", 
+        "carried_out_by": [
+          {
+            "type": "Person", 
+            "_label": "La Faille, J.-B. de"
+          }
+        ]
+      },
+      "used_for": [
+        {
+          "type": "Activity", 
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300054686", 
+              "type": "Type", 
+              "_label": "Publishing"
+            }
+          ], 
+          "carried_out_by": [
+            {
+              "type": "Group", 
+              "_label": "G. Van Oest"
+            }
+          ],
+          "took_place_at": [
+            {
+              "type": "Place",
+              "_label": "Paris"
+            }
+          ],
+          "timespan": [
+            {
+              "type": "TimeSpan",
+              "begin_of_the_begin": "1928-01-01T00:00:00",
+              "end_of_the_end": "1928-12-31T23:59:59"
+            }
+          ]
+        }
+      ]
+	},
+{
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300028051", 
+          "type": "Type", 
+          "_label": "Book"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name", 
+          "content": "Tout l'oeuvre peint de Van Gogh"
+        }
+      ], 
+      "created_by": {
+        "type": "Creation", 
+        "carried_out_by": [
+          {
+            "type": "Person", 
+            "_label": "Lecaldano, Paolo"
+          }
+        ]
+      },
+      "used_for": [
+        {
+          "type": "Activity", 
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300054686", 
+              "type": "Type", 
+              "_label": "Publishing"
+            }
+          ], 
+          "carried_out_by": [
+            {
+              "type": "Group", 
+              "_label": "Flammarion"
+            }
+          ],
+          "took_place_at": [
+            {
+              "type": "Place",
+              "_label": "Paris"
+            }
+          ],
+          "timespan": [
+            {
+              "type": "TimeSpan",
+              "begin_of_the_begin": "1971-01-01T00:00:00",
+              "end_of_the_end": "1971-12-31T23:59:59"
+            }
+          ]
+        }
+      ]
+	},
+{
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300028051", 
+          "type": "Type", 
+          "_label": "Book"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name", 
+          "content": "Musée du Jeu de Paume - Catalogue rédigé"
+        }
+      ], 
+      "created_by": {
+        "type": "Creation", 
+        "carried_out_by": [
+          {
+            "type": "Person", 
+            "_label": "Adhémar, Hélène ; Dayez-Distel, Anne"
+          }
+        ]
+      },
+      "used_for": [
+        {
+          "type": "Activity", 
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300054686", 
+              "type": "Type", 
+              "_label": "Publishing"
+            }
+          ], 
+          "carried_out_by": [
+            {
+              "type": "Group", 
+              "_label": "Editions des musées nationaux"
+            }
+          ],
+          "took_place_at": [
+            {
+              "type": "Place",
+              "_label": "Paris"
+            }
+          ],
+          "timespan": [
+            {
+              "type": "TimeSpan",
+              "begin_of_the_begin": "1977-01-01T00:00:00",
+              "end_of_the_end": "1977-12-31T23:59:59"
+            }
+          ]
+        }
+      ]
+	},
+{
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300028051", 
+          "type": "Type", 
+          "_label": "Book"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name", 
+          "content": "Catalogue sommaire illustré des peintures du Musée du Louvre. II. Italie, Espagne, Allemagne, Grande-Bretagne et divers"
+        }
+      ], 
+      "created_by": {
+        "type": "Creation", 
+        "carried_out_by": [
+          {
+            "type": "Person", 
+            "_label": "Brejon de Lavergnée, Arnauld [coordination]Thiébaut Dominique [coordination]"
+          }
+        ]
+      },
+      "used_for": [
+        {
+          "type": "Activity", 
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300054686", 
+              "type": "Type", 
+              "_label": "Publishing"
+            }
+          ], 
+          "carried_out_by": [
+            {
+              "type": "Group", 
+              "_label": "Réunion des musées nationaux"
+            }
+          ],
+          "took_place_at": [
+            {
+              "type": "Place",
+              "_label": "Paris"
+            }
+          ],
+          "timespan": [
+            {
+              "type": "TimeSpan",
+              "begin_of_the_begin": "1981-01-01T00:00:00",
+              "end_of_the_end": "1981-12-31T23:59:59"
+            }
+          ]
+        }
+      ]
+	},
+{
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300028051", 
+          "type": "Type", 
+          "_label": "Book"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name", 
+          "content": "Musée d'Orsay. Catalogue sommaire illustré des peintures"
+        }
+      ], 
+      "created_by": {
+        "type": "Creation", 
+        "carried_out_by": [
+          {
+            "type": "Person", 
+            "_label": "Compin, Isabelle [coordination] ; Lacambre, Geneviève [coordination] ; Roquebert, Anne"
+          }
+        ]
+      },
+      "used_for": [
+        {
+          "type": "Activity", 
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300054686", 
+              "type": "Type", 
+              "_label": "Publishing"
+            }
+          ], 
+          "carried_out_by": [
+            {
+              "type": "Group", 
+              "_label": "Réunion des musées nationaux"
+            }
+          ],
+          "took_place_at": [
+            {
+              "type": "Place",
+              "_label": "Paris"
+            }
+          ],
+          "timespan": [
+            {
+              "type": "TimeSpan",
+              "begin_of_the_begin": "1990-01-01T00:00:00",
+              "end_of_the_end": "1990-12-31T23:59:59"
+            }
+          ]
+        }
+      ]
+	},
+{
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300028051", 
+          "type": "Type", 
+          "_label": "Book"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name", 
+          "content": "Van Gogh - coll. Little M'O"
+        }
+      ], 
+      "created_by": {
+        "type": "Creation", 
+        "carried_out_by": [
+          {
+            "type": "Person", 
+            "_label": "Madeline, Laurence"
+          }
+        ]
+      },
+      "used_for": [
+        {
+          "type": "Activity", 
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300054686", 
+              "type": "Type", 
+              "_label": "Publishing"
+            }
+          ], 
+          "carried_out_by": [
+            {
+              "type": "Group", 
+              "_label": "Musée d'Orsay ; Skira ; Flammarion"
+            }
+          ],
+          "took_place_at": [
+            {
+              "type": "Place",
+              "_label": "Paris"
+            }
+          ],
+          "timespan": [
+            {
+              "type": "TimeSpan",
+              "begin_of_the_begin": "2011-01-01T00:00:00",
+              "end_of_the_end": "2011-12-31T23:59:59"
+            }
+          ]
+        }
+      ]
+	}
   ],
   "used_for": [
-    {
-      "id": "",
+        {
       "type": "Activity",
       "classified_as": [
         {
@@ -283,14 +618,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+          
           "type": "Actor",
           "_label": "Stedelijk Museum"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Amsterdam"
         }
@@ -298,8 +633,563 @@
       "timespan": [
         {
           "type": "TimeSpan",
-          "end_of_the_begin": "1905-01-01T00:00:00",
-          "begin_of_the_end": "1905-12-31T00:00:00"
+          "begin_of_the_begin": "1905-01-01",
+		  "end_of_the_end": "1905-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Oeuvres de grands maîtres du XIXe siècle"
+        }
+      ],
+      "carried_out_by": [
+        {
+          
+          "type": "Actor",
+          "_label": "galerie Paul Rosenberg"
+        }
+      ],
+      "took_place_at": [
+        {
+          
+          "type": "Place",
+          "_label": "null"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "1922-01-01",
+		  "end_of_the_end": "1922-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Van Gogh"
+        }
+      ],
+      "carried_out_by": [
+        {
+          
+          "type": "Actor",
+          "_label": "galerie Marcel Bernheim"
+        }
+      ],
+      "took_place_at": [
+        {
+          
+          "type": "Place",
+          "_label": "Paris"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "1925-01-01",
+		  "end_of_the_end": "1925-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "[sans titre]"
+        }
+      ],
+      "carried_out_by": [
+        {
+          
+          "type": "Actor",
+          "_label": "galerie Bernheim-Jeune"
+        }
+      ],
+      "took_place_at": [
+        {
+          
+          "type": "Place",
+          "_label": "Paris"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "1927-01-01",
+		  "end_of_the_end": "1927-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "L'Impressionnisme"
+        }
+      ],
+      "carried_out_by": [
+        {
+          
+          "type": "Actor",
+          "_label": "palais des Beaux-Arts"
+        }
+      ],
+      "took_place_at": [
+        {
+          
+          "type": "Place",
+          "_label": "null"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "1935-01-01",
+		  "end_of_the_end": "1935-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Quelques toiles importantes de collections particulières des XIXe et XXe siècles"
+        }
+      ],
+      "carried_out_by": [
+        {
+          
+          "type": "Actor",
+          "_label": "galerie Durand-Ruel"
+        }
+      ],
+      "took_place_at": [
+        {
+          
+          "type": "Place",
+          "_label": "Paris"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "1945-01-01",
+		  "end_of_the_end": "1945-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "J.-F. Millet : le portraitiste et le dessinateur"
+        }
+      ],
+      "carried_out_by": [
+        {
+          
+          "type": "Actor",
+          "_label": "musée Jacquemart-André"
+        }
+      ],
+      "took_place_at": [
+        {
+          
+          "type": "Place",
+          "_label": "Paris"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "1964-01-01",
+		  "end_of_the_end": "1965-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Vingt ans d'acquisitions au Musée du Louvre, 1947-1967"
+        }
+      ],
+      "carried_out_by": [
+        {
+          
+          "type": "Actor",
+          "_label": "musée de l'Orangerie"
+        }
+      ],
+      "took_place_at": [
+        {
+          
+          "type": "Place",
+          "_label": "null"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "1967-01-01",
+		  "end_of_the_end": "1968-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Copies, répliques, faux"
+        }
+      ],
+      "carried_out_by": [
+        {
+          
+          "type": "Actor",
+          "_label": "musée du Louvre"
+        }
+      ],
+      "took_place_at": [
+        {
+          
+          "type": "Place",
+          "_label": "Paris"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "1973-01-01",
+		  "end_of_the_end": "1974-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Van Gogh and Millet"
+        }
+      ],
+      "carried_out_by": [
+        {
+          
+          "type": "Actor",
+          "_label": "Rijksmuseum"
+        }
+      ],
+      "took_place_at": [
+        {
+          
+          "type": "Place",
+          "_label": "null"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "1988-01-01",
+		  "end_of_the_end": "1989-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Paysages, paysans : l'art et la terre en Europe du Moyen Age au XXe siècle"
+        }
+      ],
+      "carried_out_by": [
+        {
+          
+          "type": "Actor",
+          "_label": "Bibliothèque nationale de France"
+        }
+      ],
+      "took_place_at": [
+        {
+          
+          "type": "Place",
+          "_label": "null"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "1994-01-01",
+		  "end_of_the_end": "1994-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Millet - Van Gogh"
+        }
+      ],
+      "carried_out_by": [
+        {
+          
+          "type": "Actor",
+          "_label": "musée d'Orsay, Paris"
+        }
+      ],
+      "took_place_at": [
+        {
+          
+          "type": "Place",
+          "_label": "Paris"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "1998-01-01",
+		  "end_of_the_end": "1999-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "L'Impressionnisme et l'art moderne"
+        }
+      ],
+      "carried_out_by": [
+        {
+          
+          "type": "Actor",
+          "_label": "palais de Toksu (annexe du musée national d'Art contemporain)"
+        }
+      ],
+      "took_place_at": [
+        {
+          
+          "type": "Place",
+          "_label": "Séoul"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "2000-01-01",
+		  "end_of_the_end": "2001-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Le Grand Atelier du Midi. De Van Gogh à Bonnard"
+        }
+      ],
+      "carried_out_by": [
+        {
+          
+          "type": "Actor",
+          "_label": "musée des Beaux-Arts"
+        }
+      ],
+      "took_place_at": [
+        {
+          
+          "type": "Place",
+          "_label": "Marseille"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "2013-01-01",
+		  "end_of_the_end": "2013-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Années croisées France / Corée. Les mondes esthétiques au XIXème"
+        }
+      ],
+      "carried_out_by": [
+        {
+          
+          "type": "Actor",
+          "_label": "Seoul Art center"
+        }
+      ],
+      "took_place_at": [
+        {
+          
+          "type": "Place",
+          "_label": "Séoul"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "2016-01-01",
+		  "end_of_the_end": "2017-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Années croisées France / Corée. Les mondes esthétiques du XIXe siècle"
+        }
+      ],
+      "carried_out_by": [
+        {
+          
+          "type": "Actor",
+          "_label": "National Palace Museum"
+        }
+      ],
+      "took_place_at": [
+        {
+          
+          "type": "Place",
+          "_label": "Taipei"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "2017-01-01",
+		  "end_of_the_end": "2017-12-31"
         }
       ]
     }

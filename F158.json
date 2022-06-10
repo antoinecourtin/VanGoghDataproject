@@ -29,7 +29,7 @@
     },
 	{
 	 "type": "Identifier",
-      "content": "RF 1988 10   ", 
+      "content": "RF 1988 10", 
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312355",
@@ -105,7 +105,7 @@
     }
   ],
   "produced_by": {
-    "id": "",
+   
     "type": "Production",
     "carried_out_by": [
       {
@@ -138,9 +138,9 @@
   },
   "dimension": [
     {
-      "id": "",
+     
       "type": "Dimension",
-      "value": "40,3",
+      "value": "40.3",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300055647",
@@ -155,9 +155,9 @@
       }
     },
     {
-      "id": "",
+     
       "type": "Dimension",
-      "value": "29,3",
+      "value": "29.3",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300055644",
@@ -222,11 +222,23 @@
           "_label": "digital images"
         }
       ]
+    },
+	{
+      "id": "https://cdn.mediatheque.epmoo.fr/link/tyt189jpoml9d5s.jpg",
+      "type": "VisualItem",
+      "format": "image/jpeg",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300215302",
+          "type": "Type",
+          "_label": "digital images"
+        }
+      ]
     }
   ],
   "referred_to_by": [
     {
-      "id": "", 
+      
       "type": "LinguisticObject", 
       "classified_as": [
         {
@@ -245,7 +257,7 @@
       "content": "Etablissement public du Musée d'Orsay et du Musée de l'Orangerie - Valérie Giscard d'Estaing"
     },
 	{
-      "id": "", 
+      
       "type": "LinguisticObject", 
       "classified_as": [
         {
@@ -262,11 +274,234 @@
         }
       ], 
       "content": "Collection H. P. Bremmer, La Haye ; Collection C. Mouwen, Bréda ; 1956, vente publique, Paris, Hôtel Drouot, 15 juin 1956 ; Collection Georges Renand, Paris ; 1987, vente collection Georges Renand, Paris, Drouot Montaigne, 20 novembre 1987, n°17 (oeuvre retirée avant la vente) ; 1988, accepté par l'Etat à titre de don des héritiers de Georges Renand aux Musées nationaux (comité du 14/01/1988, conseil du 20/01/1988, arrêté du 02/02/1988) ; 1988, attribué au musée d'Orsay, Paris"
-    }
+    },
+	{
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300028051", 
+          "type": "Type", 
+          "_label": "Book"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name", 
+          "content": "L'Oeuvre de Vincent Van Gogh - Catalogue raisonné"
+        }
+      ], 
+      "created_by": {
+        "type": "Creation", 
+        "carried_out_by": [
+          {
+            "type": "Person", 
+            "_label": "La Faille, J.-B. de"
+          }
+        ]
+      },
+      "used_for": [
+        {
+          "type": "Activity", 
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300054686", 
+              "type": "Type", 
+              "_label": "Publishing"
+            }
+          ], 
+          "carried_out_by": [
+            {
+              "type": "Group", 
+              "_label": "G. Van Oest"
+            }
+          ],
+          "took_place_at": [
+            {
+              "type": "Place",
+              "_label": "Paris"
+            }
+          ],
+          "timespan": [
+            {
+              "type": "TimeSpan",
+              "begin_of_the_begin": "1928-01-01T00:00:00",
+              "end_of_the_end": "1928-12-31T23:59:59"
+            }
+          ]
+        }
+      ]
+	},
+{
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300028051", 
+          "type": "Type", 
+          "_label": "Book"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name", 
+          "content": "Tout l'oeuvre peint de Van Gogh"
+        }
+      ], 
+      "created_by": {
+        "type": "Creation", 
+        "carried_out_by": [
+          {
+            "type": "Person", 
+            "_label": "Lecaldano, Paolo"
+          }
+        ]
+      },
+      "used_for": [
+        {
+          "type": "Activity", 
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300054686", 
+              "type": "Type", 
+              "_label": "Publishing"
+            }
+          ], 
+          "carried_out_by": [
+            {
+              "type": "Group", 
+              "_label": "Flammarion"
+            }
+          ],
+          "took_place_at": [
+            {
+              "type": "Place",
+              "_label": "Paris"
+            }
+          ],
+          "timespan": [
+            {
+              "type": "TimeSpan",
+              "begin_of_the_begin": "1971-01-01T00:00:00",
+              "end_of_the_end": "1971-12-31T23:59:59"
+            }
+          ]
+        }
+      ]
+	},
+{
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300028051", 
+          "type": "Type", 
+          "_label": "Book"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name", 
+          "content": "Musée d'Orsay. Catalogue sommaire illustré des peintures"
+        }
+      ], 
+      "created_by": {
+        "type": "Creation", 
+        "carried_out_by": [
+          {
+            "type": "Person", 
+            "_label": "Compin, Isabelle [coordination] ; Lacambre, Geneviève [coordination] ; Roquebert, Anne"
+          }
+        ]
+      },
+      "used_for": [
+        {
+          "type": "Activity", 
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300054686", 
+              "type": "Type", 
+              "_label": "Publishing"
+            }
+          ], 
+          "carried_out_by": [
+            {
+              "type": "Group", 
+              "_label": "Réunion des musées nationaux"
+            }
+          ],
+          "took_place_at": [
+            {
+              "type": "Place",
+              "_label": "Paris"
+            }
+          ],
+          "timespan": [
+            {
+              "type": "TimeSpan",
+              "begin_of_the_begin": "1990-01-01T00:00:00",
+              "end_of_the_end": "1990-12-31T23:59:59"
+            }
+          ]
+        }
+      ]
+	},
+{
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300028051", 
+          "type": "Type", 
+          "_label": "Book"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name", 
+          "content": "De Manet à Matisse : sept ans d'enrichissement au Musée d'Orsay"
+        }
+      ], 
+      "created_by": {
+        "type": "Creation", 
+        "carried_out_by": [
+          {
+            "type": "Person", 
+            "_label": "Cachin, Françoise [sous la direction de] ; Bascou, Marc"
+          }
+        ]
+      },
+      "used_for": [
+        {
+          "type": "Activity", 
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300054686", 
+              "type": "Type", 
+              "_label": "Publishing"
+            }
+          ], 
+          "carried_out_by": [
+            {
+              "type": "Group", 
+              "_label": "Réunion des musées nationaux"
+            }
+          ],
+          "took_place_at": [
+            {
+              "type": "Place",
+              "_label": "Paris"
+            }
+          ],
+          "timespan": [
+            {
+              "type": "TimeSpan",
+              "begin_of_the_begin": "1990-01-01T00:00:00",
+              "end_of_the_end": "1990-12-31T23:59:59"
+            }
+          ]
+        }
+      ]
+	}
   ],
   "used_for": [
-    {
-      "id": "",
+       {
       "type": "Activity",
       "classified_as": [
         {
@@ -283,14 +518,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+         
           "type": "Actor",
           "_label": "musée Jacquemart-André"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+         
           "type": "Place",
           "_label": "Paris"
         }
@@ -298,8 +533,156 @@
       "timespan": [
         {
           "type": "TimeSpan",
-          "end_of_the_begin": "1960-01-01T00:00:00",
-          "begin_of_the_end": "1960-12-31T00:00:00"
+          "begin_of_the_begin": "1960-01-01",
+		  "end_of_the_end": "1960-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "The Heart in Search of Beauty"
+        }
+      ],
+      "carried_out_by": [
+        {
+         
+          "type": "Actor",
+          "_label": "Shoto Museum of Art"
+        }
+      ],
+      "took_place_at": [
+        {
+         
+          "type": "Place",
+          "_label": "Tokyo"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "2002-01-01",
+		  "end_of_the_end": "2002-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "The Heart in Search of Beauty"
+        }
+      ],
+      "carried_out_by": [
+        {
+         
+          "type": "Actor",
+          "_label": "City Art Museum"
+        }
+      ],
+      "took_place_at": [
+        {
+         
+          "type": "Place",
+          "_label": "Niigata"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "2002-01-01",
+		  "end_of_the_end": "2003-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Van Gogh Budapesten"
+        }
+      ],
+      "carried_out_by": [
+        {
+         
+          "type": "Actor",
+          "_label": "Szépművészeti Múzeum"
+        }
+      ],
+      "took_place_at": [
+        {
+         
+          "type": "Place",
+          "_label": "Budapest"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "2006-01-01",
+		  "end_of_the_end": "2007-12-31"
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Goya y el mundo moderno"
+        }
+      ],
+      "carried_out_by": [
+        {
+         
+          "type": "Actor",
+          "_label": "Museo de Zaragoza"
+        }
+      ],
+      "took_place_at": [
+        {
+         
+          "type": "Place",
+          "_label": "Saragosse"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "2008-01-01",
+		  "end_of_the_end": "2009-12-31"
         }
       ]
     }
