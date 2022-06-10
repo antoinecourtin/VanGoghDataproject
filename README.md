@@ -27,7 +27,7 @@ Test data sets to participate in the Vang Gogh Wolrdwide project (https://vangog
 ### Details and examples of cases
 
 #### First step 
-Example of technical information in the TMS XML export 
+Example of technical information ofr Van gogh painting in the TMS XML export 
 ```xml
 <materiel-technique num-ordre="1">peinture</materiel-technique>
 ```
