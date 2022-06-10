@@ -105,7 +105,7 @@
     }
   ],
   "produced_by": {
-    "id": "",
+   
     "type": "Production",
     "carried_out_by": [
       {
@@ -138,7 +138,7 @@
   },
   "dimension": [
     {
-      "id": "",
+     
       "type": "Dimension",
       "value": "8",
       "classified_as": [
@@ -155,7 +155,7 @@
       }
     },
     {
-      "id": "",
+     
       "type": "Dimension",
       "value": "12.5",
       "classified_as": [
@@ -226,7 +226,7 @@
   ],
   "referred_to_by": [
     {
-      "id": "", 
+      
       "type": "LinguisticObject", 
       "classified_as": [
         {
@@ -245,7 +245,7 @@
       "content": "Etablissement public du Musée d'Orsay et du Musée de l'Orangerie - Valérie Giscard d'Estaing"
     },
 	{
-      "id": "", 
+      
       "type": "LinguisticObject", 
       "classified_as": [
         {
@@ -266,7 +266,7 @@
   ],
   "used_for": [
     {
-      "id": "",
+     
       "type": "Activity",
       "classified_as": [
         {
@@ -283,14 +283,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+         
           "type": "Actor",
           "_label": "null"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+         
           "type": "Place",
           "_label": "null"
         }

@@ -62,7 +62,7 @@
     },
 	{
       "type": "Name",
-	  "content": "",
+	  "content": "A couple with a child holding hands with his father",
       "language": [
         {
           "id": "http://vocab.getty.edu/aat/300388277",
@@ -105,7 +105,7 @@
     }
   ],
   "produced_by": {
-    "id": "",
+   
     "type": "Production",
     "carried_out_by": [
       {
@@ -131,16 +131,16 @@
     "timespan": [
       {
         "type": "TimeSpan",
-        "end_of_the_end": "1890-01-01T00:00:00",
-        "begin_of_the_begin": "1890-12-31T00:00:00"
+        "end_of_the_end": "1890-12-31T00:00:00",
+        "begin_of_the_begin": "1890-01-01T00:00:00"
           }
         ]
   },
   "dimension": [
     {
-      "id": "",
+     
       "type": "Dimension",
-      "value": "8,4",
+      "value": "8.4",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300055647",
@@ -155,9 +155,9 @@
       }
     },
     {
-      "id": "",
+     
       "type": "Dimension",
-      "value": "13,2",
+      "value": "13.2",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300055644",
@@ -226,7 +226,7 @@
   ],
   "referred_to_by": [
     {
-      "id": "", 
+      
       "type": "LinguisticObject", 
       "classified_as": [
         {
@@ -245,7 +245,7 @@
       "content": "Etablissement public du Musée d'Orsay et du Musée de l'Orangerie - Valérie Giscard d'Estaing"
     },
 	{
-      "id": "", 
+      
       "type": "LinguisticObject", 
       "classified_as": [
         {
@@ -266,7 +266,7 @@
   ],
   "used_for": [
     {
-      "id": "",
+     
       "type": "Activity",
       "classified_as": [
         {
@@ -283,14 +283,14 @@
       ],
       "carried_out_by": [
         {
-          "id": "",
+         
           "type": "Actor",
           "_label": "null"
         }
       ],
       "took_place_at": [
         {
-          "id": "",
+         
           "type": "Place",
           "_label": "null"
         }
