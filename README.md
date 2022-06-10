@@ -35,7 +35,7 @@ Example of technical information in the TMS XML export
 #### second step 
 In OpenRefine, we align painting with the Getty's AAT to get both the English label and the concept id
 
-| technique_xml | technique_aat_label                          | technique_aat_id             |
+| technique_xml_exportTMS | technique_aat_label                          | technique_aat_id             |
 |------------|--------------------------------------|-------------------------|
 | peinture      | painting                  | 300054216            |
 
