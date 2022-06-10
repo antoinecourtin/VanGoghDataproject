@@ -1,0 +1,72 @@
+ {
+        "id": "http://vangoghmuseum.nl/data/document/11030", 
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300028051", 
+          "type": "Type", 
+          "_label": "Book"
+        }
+      ],
+      "identified_by": [
+        {
+          "id": "",
+          "type": "Name", 
+          "content": "{{jython:return cells["{{jython:return cells["notice - expositions - exposition"].value}}"].value}}"
+        },
+        {
+          "type": "Identifier",
+          "content": "",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300417443", 
+              "type": "Type", 
+              "_label": "ISBN"
+            }
+          ]
+        }
+      ], 
+      "created_by": {
+        "type": "Creation", 
+        "carried_out_by": [
+          {
+            "id": "",
+            "type": "Person", 
+            "_label": "Hulsker, Jan"
+          }
+        ]
+      },
+      "used_for": [
+        {
+          "type": "Activity", 
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300054686", 
+              "type": "Type", 
+              "_label": "Publishing"
+            }
+          ], 
+          "carried_out_by": [
+            {
+              "id": "http://vangoghmuseum.nl/data/document/11030/publisher",
+              "type": "Group", 
+              "_label": "Abrams"
+            }
+          ],
+          "took_place_at": [
+            {
+              "id": "http://vangoghmuseum.nl/data/document/11030/publisher_place",
+              "type": "Place",
+              "_label": "New York"
+            }
+          ],
+          "timespan": [
+            {
+              "type": "TimeSpan",
+              "begin_of_the_begin": "2018-01-01",
+              "end_of_the_end": "2018-12-31"
+            }
+          ]
+        }
+      ]
+    }

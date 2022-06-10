@@ -1,0 +1,37 @@
+    {
+      "type": "Activity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300054766",
+          "type": "Type",
+          "_label": "exhibitions"
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "{{jython:return cells["notice - expositions - exposition"].value}}"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "",
+          "type": "Actor",
+          "_label": "{{jython:return cells["notice - expositions - exposition - lieu"].value}}"
+        }
+      ],
+      "took_place_at": [
+        {
+          "id": "",
+          "type": "Place",
+          "_label": "{{jython:return cells["notice - expositions - exposition - ville"].value}}"
+        }
+      ],
+      "timespan": [
+        {
+          "type": "TimeSpan",
+          "begin_of_the_begin": "{{jython:return cells["notice - expositions - exposition - date-debut"].value}}-01-01",
+		  "end_of_the_end": "{{jython:return cells["notice - expositions - exposition - date-fin"].value}}-12-31"
+        }
+      ]
+    }
