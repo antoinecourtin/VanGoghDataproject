@@ -11,7 +11,7 @@ Test data sets to participate in the Vang Gogh Wolrdwide project (https://vangog
 * 32 json files that match :
   * 24 paintings of Van Gogh
   * 8 drawing of Van Gogh
-* OpenRefine Template for painting and drawings
+* OpenRefine export templating
 
 ### Process 
 
@@ -22,3 +22,5 @@ Test data sets to participate in the Vang Gogh Wolrdwide project (https://vangog
      B --> E{{Clean data}}
      B -- Export Templating --- D[generate jsonfile]
 ```
+
+### Details and examples of cases
