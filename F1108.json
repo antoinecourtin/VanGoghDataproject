@@ -83,7 +83,7 @@
 	  "content": "Le Tisserand",
       "language": [
         {
-          "id": "http://vocab.getty.edu/page/aat/300419444",
+          "id": "http://vocab.getty.edu/aat/300419444",
           "type": "Language",
           "_label": "French"
         }
@@ -116,7 +116,7 @@
     ],
     "technique": [
       {
-        "id": "http://vocab.getty.edu/page/aat/300054196",
+        "id": "http://vocab.getty.edu/aat/300054196",
         "type": "Type",
         "_label": "drawing"
       }
