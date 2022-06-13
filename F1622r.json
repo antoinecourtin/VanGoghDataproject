@@ -263,45 +263,5 @@
       ], 
       "content": "Paul Gachet - Paul Gachet fils - fonds du Musée d'Orsay ; Dernière provenance : Gachet, Paul ; Mode d'acquisition : don ; Année d'acquisition : 1954"
     }
-  ],
-  "used_for": [
-    {
-      
-      "type": "Activity",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300054766",
-          "type": "Type",
-          "_label": "exhibitions"
-        }
-      ],
-      "identified_by": [
-        {
-          "type": "Name",
-          "content": "null"
-        }
-      ],
-      "carried_out_by": [
-        {
-          
-          "type": "Actor",
-          "_label": "null"
-        }
-      ],
-      "took_place_at": [
-        {
-          
-          "type": "Place",
-          "_label": "null"
-        }
-      ],
-      "timespan": [
-        {
-          "type": "TimeSpan",
-          "end_of_the_begin": "null",
-          "begin_of_the_end": "null"
-        }
-      ]
-    }
   ]
 }
