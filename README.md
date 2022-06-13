@@ -31,7 +31,7 @@ Example of technical information ofr Van gogh painting in the TMS XML export
 ```xml
 <materiel-technique num-ordre="1">peinture</materiel-technique>
 ```
-
+ 
 #### second step 
 In OpenRefine, we align painting with the Getty's AAT to get both the English label and the concept id
 
