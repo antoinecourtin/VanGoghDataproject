@@ -101,7 +101,7 @@
     {
       "id": "http://vocab.getty.edu/ulan/500310001",
       "type": "Group",
-      "_label":"Etablissement public du Musée d'Orsay et du Musée de l'Orangerie - Valérie Giscard d'Estaing"
+      "_label":"Etablissement public du Musée d'Orsay et du Musée de l'Orangerie - Valéry Giscard d'Estaing"
     }
   ],
   "produced_by": {
@@ -241,8 +241,8 @@
             }
           ]
         }
+      "content": "Etablissement public du Musée d'Orsay et du Musée de l'Orangerie - Valéry Giscard d'Estaing"
       ], 
-      "content": "Etablissement public du Musée d'Orsay et du Musée de l'Orangerie - Valérie Giscard d'Estaing"
     },
 	{
       
@@ -262,46 +262,6 @@
         }
       ], 
       "content": "Collection Dr Gachet, Auvers-sur-Oise ; Jusqu'en 1951, dans la collection Paul Gachet (fils du Dr Gachet) ; 1951, don de Paul Gachet aux Musées nationaux ; Attribué au musée du Louvre ; 1951, déposé au musée des Beaux-Arts de Lille ; Affecté au musée d'Orsay"
-    }
-  ],
-  "used_for": [
-    {
-     
-      "type": "Activity",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300054766",
-          "type": "Type",
-          "_label": "exhibitions"
-        }
-      ],
-      "identified_by": [
-        {
-          "type": "Name",
-          "content": "null"
-        }
-      ],
-      "carried_out_by": [
-        {
-         
-          "type": "Actor",
-          "_label": "null"
-        }
-      ],
-      "took_place_at": [
-        {
-         
-          "type": "Place",
-          "_label": "null"
-        }
-      ],
-      "timespan": [
-        {
-          "type": "TimeSpan",
-          "end_of_the_begin": "",
-          "begin_of_the_end": ""
-        }
-      ]
     }
   ]
 }
