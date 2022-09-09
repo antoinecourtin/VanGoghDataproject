@@ -22,6 +22,7 @@ Test data sets to participate in the Vang Gogh Wolrdwide project (https://vangog
      B --> C{{ReconcialiationServiceAAT}}
      B --> E{{Clean data}}
      B -- Export Templating --- D[generate jsonfile]
+     D -- File deposit ---- E[Plateforme Github]
 ```
 
 ### Details and examples of cases
