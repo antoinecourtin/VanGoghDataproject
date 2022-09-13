@@ -657,8 +657,9 @@
 	}
   ],
   "used_for": [
-           {
+      {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/498515/1908/1908",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -674,14 +675,14 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/498515",
           "type": "Actor",
           "_label": "galerie Eugène Druet"
         }
       ],
       "took_place_at": [
         {
-          
+          "id": "",
           "type": "Place",
           "_label": "null"
         }
@@ -693,9 +694,11 @@
 		  "end_of_the_end": "1908-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/14058-2/1912/1912",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -711,14 +714,14 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://www.musee-orsay.fr/data/actor/14058/2",
           "type": "Actor",
           "_label": "organisme inconnu"
         }
       ],
       "took_place_at": [
         {
-          
+          "id": "",
           "type": "Place",
           "_label": "Cologne"
         }
@@ -730,9 +733,11 @@
 		  "end_of_the_end": "1912-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/14058-3/1913/1913",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -748,14 +753,14 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://www.musee-orsay.fr/data/actor/14058/3",
           "type": "Actor",
           "_label": "Flechtheim Gallery"
         }
       ],
       "took_place_at": [
         {
-          
+          "id": "",
           "type": "Place",
           "_label": "Düsseldorf"
         }
@@ -767,9 +772,11 @@
 		  "end_of_the_end": "1913-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/352926/1914/1914",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -785,14 +792,14 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/352926",
           "type": "Actor",
           "_label": "galerie Paul Cassirer"
         }
       ],
       "took_place_at": [
         {
-          
+          "id": "",
           "type": "Place",
           "_label": "Berlin"
         }
@@ -804,9 +811,11 @@
 		  "end_of_the_end": "1914-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/493819/1921/1921",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -822,14 +831,14 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/493819",
           "type": "Actor",
           "_label": "Nationalgalerie"
         }
       ],
       "took_place_at": [
         {
-          
+          "id": "",
           "type": "Place",
           "_label": "Berlin"
         }
@@ -841,9 +850,11 @@
 		  "end_of_the_end": "1921-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/500308119/1928/1928",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -859,14 +870,14 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "http://vocab.getty.edu/ulan/500308119",
           "type": "Actor",
           "_label": "galerie Flechtheim"
         }
       ],
       "took_place_at": [
         {
-          
+          "id": "",
           "type": "Place",
           "_label": "Berlin"
         }
@@ -878,9 +889,11 @@
 		  "end_of_the_end": "1928-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/500951/1936/1936",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -896,14 +909,14 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/500951",
           "type": "Actor",
           "_label": "galerie Paul Rosenberg"
         }
       ],
       "took_place_at": [
         {
-          
+          "id": "",
           "type": "Place",
           "_label": "null"
         }
@@ -915,9 +928,11 @@
 		  "end_of_the_end": "1936-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/14058-8/1937/1937",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -933,14 +948,14 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://www.musee-orsay.fr/data/actor/14058/8",
           "type": "Actor",
           "_label": "Pavillon de Belgique"
         }
       ],
       "took_place_at": [
         {
-          
+          "id": "",
           "type": "Place",
           "_label": "Paris"
         }
@@ -952,9 +967,11 @@
 		  "end_of_the_end": "1937-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/500310605/1967/1968",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -970,14 +987,14 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "http://vocab.getty.edu/ulan/500310605",
           "type": "Actor",
           "_label": "musée de l'Orangerie"
         }
       ],
       "took_place_at": [
         {
-          
+          "id": "",
           "type": "Place",
           "_label": "null"
         }
@@ -989,9 +1006,11 @@
 		  "end_of_the_end": "1968-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/500237738/1978/1978",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -1007,14 +1026,14 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "http://vocab.getty.edu/ulan/500237738",
           "type": "Actor",
           "_label": "Galeries nationales du Grand Palais"
         }
       ],
       "took_place_at": [
         {
-          
+          "id": "",
           "type": "Place",
           "_label": "null"
         }
@@ -1026,9 +1045,11 @@
 		  "end_of_the_end": "1978-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/500948/1984/1984",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -1044,14 +1065,14 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/500948",
           "type": "Actor",
           "_label": "Metropolitan Museum of Art"
         }
       ],
       "took_place_at": [
         {
-          
+          "id": "",
           "type": "Place",
           "_label": "New York"
         }
@@ -1063,9 +1084,11 @@
 		  "end_of_the_end": "1984-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/495917/1986/1986",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -1081,14 +1104,14 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/495917",
           "type": "Actor",
           "_label": "Brooklyn Museum"
         }
       ],
       "took_place_at": [
         {
-          
+          "id": "",
           "type": "Place",
           "_label": "New York"
         }
@@ -1100,9 +1123,11 @@
 		  "end_of_the_end": "1986-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/495921/1986/1986",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -1118,14 +1143,14 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/495921",
           "type": "Actor",
           "_label": "Dallas Museum of Art"
         }
       ],
       "took_place_at": [
         {
-          
+          "id": "",
           "type": "Place",
           "_label": "Dallas"
         }
@@ -1137,9 +1162,11 @@
 		  "end_of_the_end": "1986-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/494265/1989/1989",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -1155,14 +1182,14 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/494265",
           "type": "Actor",
           "_label": "espace Van Gogh"
         }
       ],
       "took_place_at": [
         {
-          
+          "id": "",
           "type": "Place",
           "_label": "Arles"
         }
@@ -1174,9 +1201,11 @@
 		  "end_of_the_end": "1989-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/500789 /1994/1994",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -1192,14 +1221,14 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/500789 ",
           "type": "Actor",
           "_label": "Szépművészeti Múzeum"
         }
       ],
       "took_place_at": [
         {
-          
+          "id": "",
           "type": "Place",
           "_label": "Budapest"
         }
@@ -1211,9 +1240,11 @@
 		  "end_of_the_end": "1994-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/14058-16/1995/1995",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -1229,14 +1260,14 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://www.musee-orsay.fr/data/actor/14058/16",
           "type": "Actor",
           "_label": "hôtel de la région Provence-Alpes-Côtes d'Azur"
         }
       ],
       "took_place_at": [
         {
-          
+          "id": "",
           "type": "Place",
           "_label": "Marseille"
         }
@@ -1248,9 +1279,11 @@
 		  "end_of_the_end": "1995-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/503632/1995/1995",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -1266,14 +1299,14 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/503632",
           "type": "Actor",
           "_label": "musée du Luxembourg"
         }
       ],
       "took_place_at": [
         {
-          
+          "id": "",
           "type": "Place",
           "_label": "null"
         }
@@ -1285,9 +1318,11 @@
 		  "end_of_the_end": "1995-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/499356/1996/1996",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -1303,14 +1338,14 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/499356",
           "type": "Actor",
           "_label": "Metropolitan Art Museum"
         }
       ],
       "took_place_at": [
         {
-          
+          "id": "",
           "type": "Place",
           "_label": "Tokyo"
         }
@@ -1322,9 +1357,11 @@
 		  "end_of_the_end": "1996-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/500300955/1996/1996",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -1340,14 +1377,14 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "http://vocab.getty.edu/ulan/500300955",
           "type": "Actor",
           "_label": "City museum"
         }
       ],
       "took_place_at": [
         {
-          
+          "id": "",
           "type": "Place",
           "_label": "Kobe"
         }
@@ -1359,9 +1396,11 @@
 		  "end_of_the_end": "1996-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/499366/1996/1997",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -1377,14 +1416,14 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/499366",
           "type": "Actor",
           "_label": "National Gallery of Australia"
         }
       ],
       "took_place_at": [
         {
-          
+          "id": "",
           "type": "Place",
           "_label": "Canberra"
         }
@@ -1396,709 +1435,7 @@
 		  "end_of_the_end": "1997-12-31"
         }
       ]
-    },
-    {
-      "type": "Activity",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300054766",
-          "type": "Type",
-          "_label": "exhibitions"
-        }
-      ],
-      "identified_by": [
-        {
-          "type": "Name",
-          "content": "Paris in the late 19th century"
-        }
-      ],
-      "carried_out_by": [
-        {
-          
-          "type": "Actor",
-          "_label": "Queensland Art Gallery "
-        }
-      ],
-      "took_place_at": [
-        {
-          
-          "type": "Place",
-          "_label": "Brisbane"
-        }
-      ],
-      "timespan": [
-        {
-          "type": "TimeSpan",
-          "begin_of_the_begin": "1997-01-01",
-		  "end_of_the_end": "1997-12-31"
-        }
-      ]
-    },
-    {
-      "type": "Activity",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300054766",
-          "type": "Type",
-          "_label": "exhibitions"
-        }
-      ],
-      "identified_by": [
-        {
-          "type": "Name",
-          "content": "Cézanne i blickpunkten"
-        }
-      ],
-      "carried_out_by": [
-        {
-          
-          "type": "Actor",
-          "_label": "Nationalmuseum"
-        }
-      ],
-      "took_place_at": [
-        {
-          
-          "type": "Place",
-          "_label": "null"
-        }
-      ],
-      "timespan": [
-        {
-          "type": "TimeSpan",
-          "begin_of_the_begin": "1997-01-01",
-		  "end_of_the_end": "1998-12-31"
-        }
-      ]
-    },
-    {
-      "type": "Activity",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300054766",
-          "type": "Type",
-          "_label": "exhibitions"
-        }
-      ],
-      "identified_by": [
-        {
-          "type": "Name",
-          "content": "Un ami de Cézanne et Van Gogh : le docteur Gachet"
-        }
-      ],
-      "carried_out_by": [
-        {
-          
-          "type": "Actor",
-          "_label": "Galeries nationales du Grand Palais"
-        }
-      ],
-      "took_place_at": [
-        {
-          
-          "type": "Place",
-          "_label": "Paris"
-        }
-      ],
-      "timespan": [
-        {
-          "type": "TimeSpan",
-          "begin_of_the_begin": "1999-01-01",
-		  "end_of_the_end": "1999-12-31"
-        }
-      ]
-    },
-    {
-      "type": "Activity",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300054766",
-          "type": "Type",
-          "_label": "exhibitions"
-        }
-      ],
-      "identified_by": [
-        {
-          "type": "Name",
-          "content": "Cézanne to Van Gogh : the Collection of Doctor Gachet"
-        }
-      ],
-      "carried_out_by": [
-        {
-          
-          "type": "Actor",
-          "_label": "Metropolitan Museum of Art"
-        }
-      ],
-      "took_place_at": [
-        {
-          
-          "type": "Place",
-          "_label": "New York"
-        }
-      ],
-      "timespan": [
-        {
-          "type": "TimeSpan",
-          "begin_of_the_begin": "1999-01-01",
-		  "end_of_the_end": "1999-12-31"
-        }
-      ]
-    },
-    {
-      "type": "Activity",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300054766",
-          "type": "Type",
-          "_label": "exhibitions"
-        }
-      ],
-      "identified_by": [
-        {
-          "type": "Name",
-          "content": "Cézanne tot Van Gogh. De collectie Dokter Gachet"
-        }
-      ],
-      "carried_out_by": [
-        {
-          
-          "type": "Actor",
-          "_label": "Van Gogh Museum"
-        }
-      ],
-      "took_place_at": [
-        {
-          
-          "type": "Place",
-          "_label": "null"
-        }
-      ],
-      "timespan": [
-        {
-          "type": "TimeSpan",
-          "begin_of_the_begin": "1999-01-01",
-		  "end_of_the_end": "1999-12-31"
-        }
-      ]
-    },
-    {
-      "type": "Activity",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300054766",
-          "type": "Type",
-          "_label": "exhibitions"
-        }
-      ],
-      "identified_by": [
-        {
-          "type": "Name",
-          "content": "Van Gogh Face to Face, the Portraits"
-        }
-      ],
-      "carried_out_by": [
-        {
-          
-          "type": "Actor",
-          "_label": "Detroit Institute of Arts"
-        }
-      ],
-      "took_place_at": [
-        {
-          
-          "type": "Place",
-          "_label": "Détroit"
-        }
-      ],
-      "timespan": [
-        {
-          "type": "TimeSpan",
-          "begin_of_the_begin": "2000-01-01",
-		  "end_of_the_end": "2000-12-31"
-        }
-      ]
-    },
-    {
-      "type": "Activity",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300054766",
-          "type": "Type",
-          "_label": "exhibitions"
-        }
-      ],
-      "identified_by": [
-        {
-          "type": "Name",
-          "content": "Van Gogh Face to Face, the Portraits"
-        }
-      ],
-      "carried_out_by": [
-        {
-          
-          "type": "Actor",
-          "_label": "Museum of Fine Arts"
-        }
-      ],
-      "took_place_at": [
-        {
-          
-          "type": "Place",
-          "_label": "Boston"
-        }
-      ],
-      "timespan": [
-        {
-          "type": "TimeSpan",
-          "begin_of_the_begin": "2000-01-01",
-		  "end_of_the_end": "2000-12-31"
-        }
-      ]
-    },
-    {
-      "type": "Activity",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300054766",
-          "type": "Type",
-          "_label": "exhibitions"
-        }
-      ],
-      "identified_by": [
-        {
-          "type": "Name",
-          "content": "L'Impressionnisme et l'art moderne"
-        }
-      ],
-      "carried_out_by": [
-        {
-          
-          "type": "Actor",
-          "_label": "palais de Toksu (annexe du musée national d'Art contemporain)"
-        }
-      ],
-      "took_place_at": [
-        {
-          
-          "type": "Place",
-          "_label": "Séoul"
-        }
-      ],
-      "timespan": [
-        {
-          "type": "TimeSpan",
-          "begin_of_the_begin": "2000-01-01",
-		  "end_of_the_end": "2001-12-31"
-        }
-      ]
-    },
-    {
-      "type": "Activity",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300054766",
-          "type": "Type",
-          "_label": "exhibitions"
-        }
-      ],
-      "identified_by": [
-        {
-          "type": "Name",
-          "content": "Van Gogh and Gauguin : the Studio of the South"
-        }
-      ],
-      "carried_out_by": [
-        {
-          
-          "type": "Actor",
-          "_label": "The Art Institute of Chicago"
-        }
-      ],
-      "took_place_at": [
-        {
-          
-          "type": "Place",
-          "_label": "Chicago"
-        }
-      ],
-      "timespan": [
-        {
-          "type": "TimeSpan",
-          "begin_of_the_begin": "2001-01-01",
-		  "end_of_the_end": "2002-12-31"
-        }
-      ]
-    },
-    {
-      "type": "Activity",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300054766",
-          "type": "Type",
-          "_label": "exhibitions"
-        }
-      ],
-      "identified_by": [
-        {
-          "type": "Name",
-          "content": "Van Gogh and Gauguin : the Studio of the South"
-        }
-      ],
-      "carried_out_by": [
-        {
-          
-          "type": "Actor",
-          "_label": "Van Gogh Museum"
-        }
-      ],
-      "took_place_at": [
-        {
-          
-          "type": "Place",
-          "_label": "null"
-        }
-      ],
-      "timespan": [
-        {
-          "type": "TimeSpan",
-          "begin_of_the_begin": "2002-01-01",
-		  "end_of_the_end": "2002-12-31"
-        }
-      ]
-    },
-    {
-      "type": "Activity",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300054766",
-          "type": "Type",
-          "_label": "exhibitions"
-        }
-      ],
-      "identified_by": [
-        {
-          "type": "Name",
-          "content": "Tendances expressives"
-        }
-      ],
-      "carried_out_by": [
-        {
-          
-          "type": "Actor",
-          "_label": "fondation Beyeler"
-        }
-      ],
-      "took_place_at": [
-        {
-          
-          "type": "Place",
-          "_label": "null"
-        }
-      ],
-      "timespan": [
-        {
-          "type": "TimeSpan",
-          "begin_of_the_begin": "2003-01-01",
-		  "end_of_the_end": "2003-12-31"
-        }
-      ]
-    },
-    {
-      "type": "Activity",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300054766",
-          "type": "Type",
-          "_label": "exhibitions"
-        }
-      ],
-      "identified_by": [
-        {
-          "type": "Name",
-          "content": "Impressionisten aus dem Pariser Musée d'Orsay"
-        }
-      ],
-      "carried_out_by": [
-        {
-          
-          "type": "Actor",
-          "_label": "Leopold Museum"
-        }
-      ],
-      "took_place_at": [
-        {
-          
-          "type": "Place",
-          "_label": "Vienne"
-        }
-      ],
-      "timespan": [
-        {
-          "type": "TimeSpan",
-          "begin_of_the_begin": "2005-01-01",
-		  "end_of_the_end": "2006-12-31"
-        }
-      ]
-    },
-    {
-      "type": "Activity",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300054766",
-          "type": "Type",
-          "_label": "exhibitions"
-        }
-      ],
-      "identified_by": [
-        {
-          "type": "Name",
-          "content": "Van Gogh Budapesten"
-        }
-      ],
-      "carried_out_by": [
-        {
-          
-          "type": "Actor",
-          "_label": "Szépművészeti Múzeum"
-        }
-      ],
-      "took_place_at": [
-        {
-          
-          "type": "Place",
-          "_label": "Budapest"
-        }
-      ],
-      "timespan": [
-        {
-          "type": "TimeSpan",
-          "begin_of_the_begin": "2006-01-01",
-		  "end_of_the_end": "2007-12-31"
-        }
-      ]
-    },
-    {
-      "type": "Activity",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300054766",
-          "type": "Type",
-          "_label": "exhibitions"
-        }
-      ],
-      "identified_by": [
-        {
-          "type": "Name",
-          "content": "Picasso et les maîtres"
-        }
-      ],
-      "carried_out_by": [
-        {
-          
-          "type": "Actor",
-          "_label": "Galeries nationales du Grand Palais"
-        }
-      ],
-      "took_place_at": [
-        {
-          
-          "type": "Place",
-          "_label": "null"
-        }
-      ],
-      "timespan": [
-        {
-          "type": "TimeSpan",
-          "begin_of_the_begin": "2008-01-01",
-		  "end_of_the_end": "2009-12-31"
-        }
-      ]
-    },
-    {
-      "type": "Activity",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300054766",
-          "type": "Type",
-          "_label": "exhibitions"
-        }
-      ],
-      "identified_by": [
-        {
-          "type": "Name",
-          "content": "1912 Mission Moderne: Die Jahrhundertschau des Sonderbundes"
-        }
-      ],
-      "carried_out_by": [
-        {
-          
-          "type": "Actor",
-          "_label": "Wallraf-Richartz-Museum & Fondation Corboud"
-        }
-      ],
-      "took_place_at": [
-        {
-          
-          "type": "Place",
-          "_label": "Cologne"
-        }
-      ],
-      "timespan": [
-        {
-          "type": "TimeSpan",
-          "begin_of_the_begin": "2012-01-01",
-		  "end_of_the_end": "2012-12-31"
-        }
-      ]
-    },
-    {
-      "type": "Activity",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300054766",
-          "type": "Type",
-          "_label": "exhibitions"
-        }
-      ],
-      "identified_by": [
-        {
-          "type": "Name",
-          "content": "Le Grand Atelier du Midi. De Van Gogh à Bonnard"
-        }
-      ],
-      "carried_out_by": [
-        {
-          
-          "type": "Actor",
-          "_label": "musée des Beaux-Arts"
-        }
-      ],
-      "took_place_at": [
-        {
-          
-          "type": "Place",
-          "_label": "Marseille"
-        }
-      ],
-      "timespan": [
-        {
-          "type": "TimeSpan",
-          "begin_of_the_begin": "2013-01-01",
-		  "end_of_the_end": "2013-12-31"
-        }
-      ]
-    },
-    {
-      "type": "Activity",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300054766",
-          "type": "Type",
-          "_label": "exhibitions"
-        }
-      ],
-      "identified_by": [
-        {
-          "type": "Name",
-          "content": "Van Gogh Repetitions"
-        }
-      ],
-      "carried_out_by": [
-        {
-          
-          "type": "Actor",
-          "_label": "The Phillips Collection"
-        }
-      ],
-      "took_place_at": [
-        {
-          
-          "type": "Place",
-          "_label": "Washington"
-        }
-      ],
-      "timespan": [
-        {
-          "type": "TimeSpan",
-          "begin_of_the_begin": "2013-01-01",
-		  "end_of_the_end": "2014-12-31"
-        }
-      ]
-    },
-    {
-      "type": "Activity",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300054766",
-          "type": "Type",
-          "_label": "exhibitions"
-        }
-      ],
-      "identified_by": [
-        {
-          "type": "Name",
-          "content": "Van Gogh Repetitions"
-        }
-      ],
-      "carried_out_by": [
-        {
-          
-          "type": "Actor",
-          "_label": "Cleveland Museum of Art"
-        }
-      ],
-      "took_place_at": [
-        {
-          
-          "type": "Place",
-          "_label": "Cleveland"
-        }
-      ],
-      "timespan": [
-        {
-          "type": "TimeSpan",
-          "begin_of_the_begin": "2014-01-01",
-		  "end_of_the_end": "2014-12-31"
-        }
-      ]
-    },
-    {
-      "type": "Activity",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300054766",
-          "type": "Type",
-          "_label": "exhibitions"
-        }
-      ],
-      "identified_by": [
-        {
-          "type": "Name",
-          "content": "Faces of Impressionism. Portraits from the Musée d'Orsay"
-        }
-      ],
-      "carried_out_by": [
-        {
-          
-          "type": "Actor",
-          "_label": "Kimbell Art Museum"
-        }
-      ],
-      "took_place_at": [
-        {
-          
-          "type": "Place",
-          "_label": "Fort Worth"
-        }
-      ],
-      "timespan": [
-        {
-          "type": "TimeSpan",
-          "begin_of_the_begin": "2014-01-01",
-		  "end_of_the_end": "2015-12-31"
-        }
-      ]
     }
+	
   ]
 }
